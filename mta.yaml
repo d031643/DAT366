@@ -1,0 +1,88 @@
+_schema-version: '2.0'
+ID: DAT366
+description: DAT366
+version: 0.0.1
+
+modules:
+ - name:  DAT366-DWF
+   type: dwf
+#   parameters:
+#      app-name: DAT366-DWF
+   path: DWF
+   requires:
+#      - name: DAT366-uaa
+      - name: DAT366-dws
+   properties:
+     memory: 256M
+
+ - name: DAT366-Backend
+   type: nodejs
+#   parameters:
+#      app-name: DAT366-Backend
+   path: Backend
+   requires:
+#      - name: DAT366-uaa
+      - name: DAT366-container
+      - name: DAT366-dws
+   properties:
+     memory: 512M
+     API_END_POINT: "${xs-api-url}"
+#     SAP_JWT_TRUST_ACL: "[{\"clientid\":\"*\",\"identityzone\":\"*\"}]"
+   provides:
+    - name:  DAT366-Backend
+      properties:
+       service_url: ${default-url}
+
+ - name: DAT366-Database
+   type: hdb
+#   parameters:
+#      app-name: DAT366-Database
+   path: Database
+   requires:
+    - name: DAT366-container
+   properties:
+     memory: 256M
+     HDI_DEPLOY_OPTIONS: { "auto_undeploy": true }
+
+resources:
+# - name: DAT366-uaa
+#   type: com.sap.xs.uaa
+#   parameters:
+#     service-name: DAT366-uaa
+#     service-plan: space
+#     config:
+#         xsappname: DAT366
+#         scopes:
+#          - name: $XSAPPNAME.TOE
+#            description: access for TOE
+#            grant-as-authority-to-apps:
+#             - dwf-toe
+#             - dwf-runtime
+#            granted-apps:
+#             - dwf-toe
+#             - dwf-runtime
+#         authorities:
+#          - $ACCEPT_GRANTED_AUTHORITIES
+#         role-templates:
+#           - name: User
+#             description: Access API
+#             scope-references:
+#              - $XSAPPNAME.TOE
+
+ - name: DAT366-dws
+   properties:
+      dwf-edw-client-name: ${service-name}
+#      dwf-edw-client-name: DAT366-dws
+#   parameters:
+#      service-name: DAT366-dws
+   type: com.sap.xs.dwf-edw-client
+ - name: DAT366-container
+   properties:
+      hdi-container-name: ${service-name}
+#      hdi-container-name: DAT366-container
+#   parameters:
+#      service-name: DAT366-container
+   type: com.sap.xs.hdi-container
+   parameters:
+     service-keys:
+     - name: dwf-monitor

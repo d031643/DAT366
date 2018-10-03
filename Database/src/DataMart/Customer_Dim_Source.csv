@@ -1,0 +1,1001 @@
+CustomerID,AddressID,AddressType,ModifiedDate,NameStyle,Title,FirstName,MiddleName,LastName,CompanyName,SalesPerson,AddressLine1,AddressLine2,City,StateProvince,CountryRegion,PostalCode,Counter,RecordMode
+29842,1094,Main Office,2005-09-01 00:00:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,85257,1,N
+29690,1036,Main Office,2005-09-01 00:00:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,84098,1,N
+129842,101094,Main Office,2005-09-01 00:00:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,85257,1,N
+129690,101036,Main Office,2005-09-01 00:00:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,84098,1,N
+229842,201094,Main Office,2005-09-01 00:00:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,85257,1,N
+229690,201036,Main Office,2005-09-01 00:00:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,84098,1,N
+329842,301094,Main Office,2005-09-01 00:00:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,85257,1,N
+329690,301036,Main Office,2005-09-01 00:00:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,84098,1,N
+429842,401094,Main Office,2005-09-01 00:00:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,85257,1,N
+429690,401036,Main Office,2005-09-01 00:00:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,84098,1,N
+529842,501094,Main Office,2005-09-01 00:00:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,85257,1,N
+529690,501036,Main Office,2005-09-01 00:00:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,84098,1,N
+629842,601094,Main Office,2005-09-01 00:00:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,85257,1,N
+629690,601036,Main Office,2005-09-01 00:00:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,84098,1,N
+729842,701094,Main Office,2005-09-01 00:00:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,85257,1,N
+729690,701036,Main Office,2005-09-01 00:00:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,84098,1,N
+829744,801068,Main Office,2006-07-01 00:00:00,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,85004,1,N
+829901,801053,Main Office,2005-08-01 00:00:00,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,95020,1,N
+829842,801094,Main Office,2005-09-01 00:00:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,85257,1,N
+829690,801036,Main Office,2005-09-01 00:00:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,84098,1,N
+929744,901068,Main Office,2006-07-01 00:00:00,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,85004,1,N
+929901,901053,Main Office,2005-08-01 00:00:00,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,95020,1,N
+929842,901094,Main Office,2005-09-01 00:00:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,85257,1,N
+929690,901036,Main Office,2005-09-01 00:00:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,84098,1,N
+1129744,1101068,Main Office,2006-07-01 00:00:00,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,85004,1,N
+1129901,1101053,Main Office,2005-08-01 00:00:00,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,95020,1,N
+1129842,1101094,Main Office,2005-09-01 00:00:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,85257,1,N
+1129690,1101036,Main Office,2005-09-01 00:00:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,84098,1,N
+1229744,1201068,Main Office,2006-07-01 00:00:00,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,85004,1,N
+1229901,1201053,Main Office,2005-08-01 00:00:00,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,95020,1,N
+1229842,1201094,Main Office,2005-09-01 00:00:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,85257,1,N
+1229690,1201036,Main Office,2005-09-01 00:00:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,84098,1,N
+1329744,1301068,Main Office,2006-07-01 00:00:00,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,85004,1,N
+1329901,1301053,Main Office,2005-08-01 00:00:00,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,95020,1,N
+1329842,1301094,Main Office,2005-09-01 00:00:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,85257,1,N
+1329690,1301036,Main Office,2005-09-01 00:00:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,84098,1,N
+1429744,1401068,Main Office,2006-07-01 00:00:00,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,85004,1,N
+1429901,1401053,Main Office,2005-08-01 00:00:00,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,95020,1,N
+1429842,1401094,Main Office,2005-09-01 00:00:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,85257,1,N
+1429690,1401036,Main Office,2005-09-01 00:00:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,84098,1,N
+1529744,1501068,Main Office,2006-07-01 00:00:00,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,85004,1,N
+1529901,1501053,Main Office,2005-08-01 00:00:00,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,95020,1,N
+1529842,1501094,Main Office,2005-09-01 00:00:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,85257,1,N
+1529690,1501036,Main Office,2005-09-01 00:00:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,84098,1,N
+411029842,411001094,Main Office,2017-09-05 17:46:01,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,411,1,N
+411029690,411001036,Main Office,2017-09-05 17:46:01,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,411,1,N
+450029842,450001094,Main Office,2017-09-05 21:29:50,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,450,1,N
+450029690,450001036,Main Office,2017-09-05 21:29:50,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,450,1,N
+410029842,410001094,Main Office,2017-09-05 21:42:09,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,410,1,N
+410029690,410001036,Main Office,2017-09-05 21:42:09,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,410,1,N
+102029842,102001094,Main Office,2017-09-28 17:54:06,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,102,1,N
+102029690,102001036,Main Office,2017-09-28 17:54:06,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,102,1,N
+115029842,115001094,Main Office,2017-09-28 17:54:32,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,115,1,N
+104029842,104001094,Main Office,2017-09-28 17:57:51,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,104,1,N
+128029842,128001094,Main Office,2017-09-28 17:57:52,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,128,1,N
+117029842,117001094,Main Office,2017-09-28 18:01:01,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,117,1,N
+130029842,130001094,Main Office,2017-09-28 18:02:25,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,130,1,N
+109029842,109001094,Main Office,2017-09-28 18:02:26,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,109,1,N
+111029842,111001094,Main Office,2017-09-28 18:03:44,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,111,1,N
+101029842,101001094,Main Office,2017-09-28 18:04:54,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,101,1,N
+129029842,129001094,Main Office,2017-09-28 18:06:02,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,129,1,N
+7029842,7001094,Main Office,2017-09-28 18:06:49,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,7,1,N
+107029842,107001094,Main Office,2017-09-28 18:09:53,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,107,1,N
+113029842,113001094,Main Office,2017-09-28 18:12:16,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,113,1,N
+112029842,112001094,Main Office,2017-09-28 18:15:36,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,112,1,N
+110029842,110001094,Main Office,2017-09-28 18:18:46,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,110,1,N
+110029690,110001036,Main Office,2017-09-28 18:18:46,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,110,1,N
+127029842,127001094,Main Office,2017-09-28 18:20:31,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,127,1,N
+127029690,127001036,Main Office,2017-09-28 18:20:31,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,127,1,N
+103029842,103001094,Main Office,2017-09-28 18:21:40,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,103,1,N
+103029690,103001036,Main Office,2017-09-28 18:21:40,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,103,1,N
+23029842,23001094,Main Office,2017-09-28 18:21:57,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,23,1,N
+23029690,23001036,Main Office,2017-09-28 18:21:57,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,23,1,N
+126029842,126001094,Main Office,2017-09-28 18:22:54,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,126,1,N
+126029690,126001036,Main Office,2017-09-28 18:22:54,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,126,1,N
+998029842,998001094,Main Office,2017-09-28 18:23:32,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,998,1,N
+998029690,998001036,Main Office,2017-09-28 18:23:32,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,998,1,N
+16029842,16001094,Main Office,2017-09-28 18:25:29,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,16,1,N
+16029690,16001036,Main Office,2017-09-28 18:25:29,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,16,1,N
+22029842,22001094,Main Office,2017-09-28 18:25:33,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,22,1,N
+22029690,22001036,Main Office,2017-09-28 18:25:33,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,22,1,N
+125029842,125001094,Main Office,2017-09-28 18:26:42,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,125,1,N
+125029690,125001036,Main Office,2017-09-28 18:26:42,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,125,1,N
+121029842,121001094,Main Office,2017-09-28 18:27:59,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,121,1,N
+121029690,121001036,Main Office,2017-09-28 18:27:59,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,121,1,N
+124029842,124001094,Main Office,2017-09-28 18:31:46,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,124,1,N
+124029690,124001036,Main Office,2017-09-28 18:31:46,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,124,1,N
+108029842,108001094,Main Office,2017-09-28 18:31:49,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,108,1,N
+108029690,108001036,Main Office,2017-09-28 18:31:49,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,108,1,N
+106029842,106001094,Main Office,2017-09-28 18:32:43,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,106,1,N
+106029690,106001036,Main Office,2017-09-28 18:32:43,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,106,1,N
+105029842,105001094,Main Office,2017-09-28 18:32:52,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,105,1,N
+105029690,105001036,Main Office,2017-09-28 18:32:52,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,105,1,N
+118029842,118001094,Main Office,2017-09-28 18:37:09,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,118,1,N
+118029690,118001036,Main Office,2017-09-28 18:37:09,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,118,1,N
+114029842,114001094,Main Office,2017-09-28 18:49:33,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,114,1,N
+114029690,114001036,Main Office,2017-09-28 18:49:33,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,114,1,N
+296029842,296001094,Main Office,2017-10-18 14:20:35,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,296,1,N
+296029690,296001036,Main Office,2017-10-18 14:20:35,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,296,1,N
+420029842,420001094,Main Office,2017-10-27 06:39:19,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,420,1,N
+420029690,420001036,Main Office,2017-10-27 06:39:19,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,420,1,N
+434029842,434001094,Main Office,2017-10-27 06:43:35,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,434,1,N
+434029690,434001036,Main Office,2017-10-27 06:43:35,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,434,1,N
+416029842,416001094,Main Office,2017-10-27 06:46:32,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,416,1,N
+416029690,416001036,Main Office,2017-10-27 06:46:32,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,416,1,N
+369029842,369001094,Main Office,2017-10-27 06:46:58,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,369,1,N
+369029690,369001036,Main Office,2017-10-27 06:46:58,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,369,1,N
+422029842,422001094,Main Office,2017-10-27 06:48:53,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,422,1,N
+422029690,422001036,Main Office,2017-10-27 06:48:53,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,422,1,N
+49029842,49001094,Main Office,2017-10-27 06:51:47,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,49,1,N
+49029690,49001036,Main Office,2017-10-27 06:51:47,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,49,1,N
+426029842,426001094,Main Office,2017-10-27 06:55:24,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,426,1,N
+426029690,426001036,Main Office,2017-10-27 06:55:24,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,426,1,N
+428029842,428001094,Main Office,2017-10-27 06:55:57,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,428,1,N
+428029690,428001036,Main Office,2017-10-27 06:55:57,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,428,1,N
+439029842,439001094,Main Office,2017-10-27 06:58:30,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,439,1,N
+439029690,439001036,Main Office,2017-10-27 06:58:30,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,439,1,N
+29029842,29001094,Main Office,2017-10-27 07:02:33,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,29,1,N
+29029690,29001036,Main Office,2017-10-27 07:02:33,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,29,1,N
+438029842,438001094,Main Office,2017-10-27 07:03:47,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,438,1,N
+438029690,438001036,Main Office,2017-10-27 07:03:47,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,438,1,N
+433029842,433001094,Main Office,2017-10-27 07:06:33,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,433,1,N
+433029690,433001036,Main Office,2017-10-27 07:06:33,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,433,1,N
+432029842,432001094,Main Office,2017-10-27 07:08:15,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,432,1,N
+432029690,432001036,Main Office,2017-10-27 07:08:15,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,432,1,N
+440029842,440001094,Main Office,2017-10-27 07:08:20,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,440,1,N
+440029690,440001036,Main Office,2017-10-27 07:08:20,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,440,1,N
+46029842,46001094,Main Office,2017-10-27 07:11:08,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,46,1,N
+46029690,46001036,Main Office,2017-10-27 07:11:08,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,46,1,N
+429029842,429001094,Main Office,2017-10-27 07:11:23,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,429,1,N
+429029690,429001036,Main Office,2017-10-27 07:11:23,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,429,1,N
+500029842,500001094,Main Office,2017-10-27 07:11:54,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,500,1,N
+500029690,500001036,Main Office,2017-10-27 07:11:54,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,500,1,N
+430029842,430001094,Main Office,2017-10-27 07:12:11,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,430,1,N
+430029690,430001036,Main Office,2017-10-27 07:12:11,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,430,1,N
+445029842,445001094,Main Office,2017-10-27 07:12:14,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,445,1,N
+445029690,445001036,Main Office,2017-10-27 07:12:14,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,445,1,N
+464029842,464001094,Main Office,2017-10-27 07:12:23,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,464,1,N
+464029690,464001036,Main Office,2017-10-27 07:12:23,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,464,1,N
+44029842,44001094,Main Office,2017-10-27 07:14:29,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,44,1,N
+44029690,44001036,Main Office,2017-10-27 07:14:29,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,44,1,N
+35029842,35001094,Main Office,2017-10-27 07:14:31,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,35,1,N
+35029690,35001036,Main Office,2017-10-27 07:14:31,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,35,1,N
+448029842,448001094,Main Office,2017-10-27 07:15:04,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,448,1,N
+448029690,448001036,Main Office,2017-10-27 07:15:04,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,448,1,N
+413029842,413001094,Main Office,2017-10-27 07:16:37,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,413,1,N
+413029690,413001036,Main Office,2017-10-27 07:16:37,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,413,1,N
+446029842,446001094,Main Office,2017-10-27 07:17:11,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,446,1,N
+446029690,446001036,Main Office,2017-10-27 07:17:11,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,446,1,N
+222029842,222001094,Main Office,2017-10-27 07:19:07,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,222,1,N
+222029690,222001036,Main Office,2017-10-27 07:19:07,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,222,1,N
+447029842,447001094,Main Office,2017-10-27 07:21:04,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,447,1,N
+447029690,447001036,Main Office,2017-10-27 07:21:04,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,447,1,N
+224029842,224001094,Main Office,2017-10-27 07:23:41,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,224,1,N
+224029690,224001036,Main Office,2017-10-27 07:23:41,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,224,1,N
+223029842,223001094,Main Office,2017-10-27 07:25:46,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,223,1,N
+223029690,223001036,Main Office,2017-10-27 07:25:46,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,223,1,N
+24029842,24001094,Main Office,2017-10-27 07:35:28,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,24,1,N
+24029690,24001036,Main Office,2017-10-27 07:35:28,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,24,1,N
+412029842,412001094,Main Office,2017-10-27 07:39:20,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,412,1,N
+412029690,412001036,Main Office,2017-10-27 07:39:20,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,412,1,N
+419029842,419001094,Main Office,2017-10-27 07:40:36,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,419,1,N
+419029690,419001036,Main Office,2017-10-27 07:40:36,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,419,1,N
+458029842,458001094,Main Office,2017-10-27 07:40:52,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,458,1,N
+458029690,458001036,Main Office,2017-10-27 07:40:52,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,458,1,N
+999029842,999001094,Main Office,2017-11-09 13:40:45,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,999,1,N
+999029690,999001036,Main Office,2017-11-09 13:40:45,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,999,1,N
+335029842,335001094,Main Office,2017-11-15 17:38:41,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,335,1,N
+335029690,335001036,Main Office,2017-11-15 17:38:41,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,335,1,N
+349029842,349001094,Main Office,2017-11-15 17:50:41,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,349,1,N
+349029690,349001036,Main Office,2017-11-15 17:50:41,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,349,1,N
+315029842,315001094,Main Office,2017-11-15 17:53:05,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,315,1,N
+315029690,315001036,Main Office,2017-11-15 17:53:05,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,315,1,N
+306029842,306001094,Main Office,2017-11-15 17:56:55,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,306,1,N
+306029690,306001036,Main Office,2017-11-15 17:56:55,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,306,1,N
+321029842,321001094,Main Office,2017-11-15 17:57:45,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,321,1,N
+321029690,321001036,Main Office,2017-11-15 17:57:45,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,321,1,N
+320029842,320001094,Main Office,2017-11-15 17:58:32,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,320,1,N
+320029690,320001036,Main Office,2017-11-15 17:58:32,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,320,1,N
+305029842,305001094,Main Office,2017-11-15 17:58:35,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,305,1,N
+305029690,305001036,Main Office,2017-11-15 17:58:35,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,305,1,N
+348029842,348001094,Main Office,2017-11-15 18:00:31,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,348,1,N
+348029690,348001036,Main Office,2017-11-15 18:00:31,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,348,1,N
+331029842,331001094,Main Office,2017-11-15 18:00:40,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,331,1,N
+331029690,331001036,Main Office,2017-11-15 18:00:40,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,331,1,N
+350029842,350001094,Main Office,2017-11-15 18:01:04,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,350,1,N
+350029690,350001036,Main Office,2017-11-15 18:01:04,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,350,1,N
+314029842,314001094,Main Office,2017-11-15 18:02:54,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,314,1,N
+314029690,314001036,Main Office,2017-11-15 18:02:54,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,314,1,N
+337029842,337001094,Main Office,2017-11-15 18:03:46,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,337,1,N
+337029690,337001036,Main Office,2017-11-15 18:03:46,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,337,1,N
+307029842,307001094,Main Office,2017-11-15 18:03:52,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,307,1,N
+307029690,307001036,Main Office,2017-11-15 18:03:52,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,307,1,N
+325029842,325001094,Main Office,2017-11-15 18:04:42,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,325,1,N
+325029690,325001036,Main Office,2017-11-15 18:04:42,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,325,1,N
+42029842,42001094,Main Office,2017-11-15 18:06:35,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,42,1,N
+42029690,42001036,Main Office,2017-11-15 18:06:35,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,42,1,N
+339029842,339001094,Main Office,2017-11-15 18:07:22,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,339,1,N
+339029690,339001036,Main Office,2017-11-15 18:07:22,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,339,1,N
+333029842,333001094,Main Office,2017-11-15 18:08:23,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,333,1,N
+333029690,333001036,Main Office,2017-11-15 18:08:23,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,333,1,N
+318029842,318001094,Main Office,2017-11-15 18:09:08,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,318,1,N
+318029690,318001036,Main Office,2017-11-15 18:09:08,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,318,1,N
+346029842,346001094,Main Office,2017-11-15 18:09:12,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,346,1,N
+346029690,346001036,Main Office,2017-11-15 18:09:12,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,346,1,N
+330029842,330001094,Main Office,2017-11-15 18:09:48,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,330,1,N
+330029690,330001036,Main Office,2017-11-15 18:09:48,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,330,1,N
+329029842,329001094,Main Office,2017-11-15 18:11:18,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,329,1,N
+329029690,329001036,Main Office,2017-11-15 18:11:18,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,329,1,N
+338029842,338001094,Main Office,2017-11-15 18:11:34,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,338,1,N
+338029690,338001036,Main Office,2017-11-15 18:11:34,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,338,1,N
+308029842,308001094,Main Office,2017-11-15 18:12:13,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,308,1,N
+308029690,308001036,Main Office,2017-11-15 18:12:13,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,308,1,N
+340029842,340001094,Main Office,2017-11-15 18:13:12,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,340,1,N
+340029690,340001036,Main Office,2017-11-15 18:13:12,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,340,1,N
+303029842,303001094,Main Office,2017-11-15 18:13:56,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,303,1,N
+303029690,303001036,Main Office,2017-11-15 18:13:56,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,303,1,N
+334029842,334001094,Main Office,2017-11-15 18:16:19,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,334,1,N
+334029690,334001036,Main Office,2017-11-15 18:16:19,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,334,1,N
+317029842,317001094,Main Office,2017-11-15 18:16:20,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,317,1,N
+317029690,317001036,Main Office,2017-11-15 18:16:20,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,317,1,N
+880029842,880001094,Main Office,2017-11-15 18:17:06,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,880,1,N
+880029690,880001036,Main Office,2017-11-15 18:17:06,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,880,1,N
+323029842,323001094,Main Office,2017-11-15 18:17:41,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,323,1,N
+323029690,323001036,Main Office,2017-11-15 18:17:41,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,323,1,N
+302029842,302001094,Main Office,2017-11-15 18:18:43,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,302,1,N
+302029690,302001036,Main Office,2017-11-15 18:18:43,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,302,1,N
+26029842,26001094,Main Office,2017-11-15 18:22:56,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,26,1,N
+26029690,26001036,Main Office,2017-11-15 18:22:56,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,26,1,N
+336029842,336001094,Main Office,2017-11-15 18:24:15,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,336,1,N
+336029690,336001036,Main Office,2017-11-15 18:24:15,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,336,1,N
+13029842,13001094,Main Office,2017-11-15 18:25:04,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,13,1,N
+13029690,13001036,Main Office,2017-11-15 18:25:04,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,13,1,N
+319029842,319001094,Main Office,2017-11-15 18:25:05,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,319,1,N
+319029690,319001036,Main Office,2017-11-15 18:25:05,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,319,1,N
+327029842,327001094,Main Office,2017-11-15 18:28:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,327,1,N
+327029690,327001036,Main Office,2017-11-15 18:28:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,327,1,N
+324029842,324001094,Main Office,2017-11-15 18:32:54,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,324,1,N
+324029690,324001036,Main Office,2017-11-15 18:32:54,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,324,1,N
+309029842,309001094,Main Office,2017-11-15 18:36:06,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,309,1,N
+309029690,309001036,Main Office,2017-11-15 18:36:06,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,309,1,N
+345029842,345001094,Main Office,2017-11-15 18:37:27,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,345,1,N
+345029690,345001036,Main Office,2017-11-15 18:37:27,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,345,1,N
+310029842,310001094,Main Office,2017-11-15 18:37:43,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,310,1,N
+310029690,310001036,Main Office,2017-11-15 18:37:43,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,310,1,N
+304029842,304001094,Main Office,2017-11-15 18:38:45,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,304,1,N
+304029690,304001036,Main Office,2017-11-15 18:38:45,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,304,1,N
+1029842,1001094,Main Office,2017-11-15 18:38:47,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,1,1,N
+1029690,1001036,Main Office,2017-11-15 18:38:47,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,1,1,N
+328029842,328001094,Main Office,2017-11-15 18:42:02,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,328,1,N
+328029690,328001036,Main Office,2017-11-15 18:42:02,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,328,1,N
+312029842,312001094,Main Office,2017-11-15 18:44:47,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,312,1,N
+312029690,312001036,Main Office,2017-11-15 18:44:47,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,312,1,N
+341029842,341001094,Main Office,2017-11-15 18:48:16,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,341,1,N
+341029690,341001036,Main Office,2017-11-15 18:48:16,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,341,1,N
+29744,1068,Main Office,2006-07-01 00:00:00,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,85004,1,N
+129744,101068,Main Office,2006-07-01 00:00:00,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,85004,1,N
+229744,201068,Main Office,2006-07-01 00:00:00,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,85004,1,N
+329744,301068,Main Office,2006-07-01 00:00:00,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,85004,1,N
+429744,401068,Main Office,2006-07-01 00:00:00,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,85004,1,N
+529744,501068,Main Office,2006-07-01 00:00:00,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,85004,1,N
+629744,601068,Main Office,2006-07-01 00:00:00,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,85004,1,N
+729744,701068,Main Office,2006-07-01 00:00:00,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,85004,1,N
+411029744,411001068,Main Office,2017-09-05 17:46:01,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,411,1,N
+450029744,450001068,Main Office,2017-09-05 21:29:50,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,450,1,N
+410029744,410001068,Main Office,2017-09-05 21:42:09,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,410,1,N
+102029744,102001068,Main Office,2017-09-28 17:54:06,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,102,1,N
+115029744,115001068,Main Office,2017-09-28 17:54:32,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,115,1,N
+104029744,104001068,Main Office,2017-09-28 17:57:51,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,104,1,N
+128029744,128001068,Main Office,2017-09-28 17:57:52,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,128,1,N
+117029744,117001068,Main Office,2017-09-28 18:01:01,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,117,1,N
+130029744,130001068,Main Office,2017-09-28 18:02:25,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,130,1,N
+109029744,109001068,Main Office,2017-09-28 18:02:26,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,109,1,N
+111029744,111001068,Main Office,2017-09-28 18:03:44,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,111,1,N
+101029744,101001068,Main Office,2017-09-28 18:04:54,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,101,1,N
+129029744,129001068,Main Office,2017-09-28 18:06:02,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,129,1,N
+7029744,7001068,Main Office,2017-09-28 18:06:49,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,7,1,N
+107029744,107001068,Main Office,2017-09-28 18:09:53,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,107,1,N
+113029744,113001068,Main Office,2017-09-28 18:12:16,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,113,1,N
+112029744,112001068,Main Office,2017-09-28 18:15:36,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,112,1,N
+110029744,110001068,Main Office,2017-09-28 18:18:46,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,110,1,N
+127029744,127001068,Main Office,2017-09-28 18:20:31,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,127,1,N
+103029744,103001068,Main Office,2017-09-28 18:21:40,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,103,1,N
+23029744,23001068,Main Office,2017-09-28 18:21:57,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,23,1,N
+126029744,126001068,Main Office,2017-09-28 18:22:54,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,126,1,N
+998029744,998001068,Main Office,2017-09-28 18:23:32,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,998,1,N
+16029744,16001068,Main Office,2017-09-28 18:25:29,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,16,1,N
+22029744,22001068,Main Office,2017-09-28 18:25:33,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,22,1,N
+125029744,125001068,Main Office,2017-09-28 18:26:42,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,125,1,N
+121029744,121001068,Main Office,2017-09-28 18:27:59,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,121,1,N
+124029744,124001068,Main Office,2017-09-28 18:31:46,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,124,1,N
+108029744,108001068,Main Office,2017-09-28 18:31:49,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,108,1,N
+106029744,106001068,Main Office,2017-09-28 18:32:43,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,106,1,N
+105029744,105001068,Main Office,2017-09-28 18:32:52,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,105,1,N
+118029744,118001068,Main Office,2017-09-28 18:37:09,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,118,1,N
+114029744,114001068,Main Office,2017-09-28 18:49:33,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,114,1,N
+296029744,296001068,Main Office,2017-10-18 14:20:35,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,296,1,N
+420029744,420001068,Main Office,2017-10-27 06:39:19,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,420,1,N
+434029744,434001068,Main Office,2017-10-27 06:43:35,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,434,1,N
+416029744,416001068,Main Office,2017-10-27 06:46:32,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,416,1,N
+369029744,369001068,Main Office,2017-10-27 06:46:58,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,369,1,N
+422029744,422001068,Main Office,2017-10-27 06:48:53,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,422,1,N
+49029744,49001068,Main Office,2017-10-27 06:51:47,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,49,1,N
+426029744,426001068,Main Office,2017-10-27 06:55:24,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,426,1,N
+428029744,428001068,Main Office,2017-10-27 06:55:57,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,428,1,N
+439029744,439001068,Main Office,2017-10-27 06:58:30,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,439,1,N
+29029744,29001068,Main Office,2017-10-27 07:02:33,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,29,1,N
+438029744,438001068,Main Office,2017-10-27 07:03:47,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,438,1,N
+433029744,433001068,Main Office,2017-10-27 07:06:33,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,433,1,N
+432029744,432001068,Main Office,2017-10-27 07:08:15,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,432,1,N
+440029744,440001068,Main Office,2017-10-27 07:08:20,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,440,1,N
+46029744,46001068,Main Office,2017-10-27 07:11:08,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,46,1,N
+429029744,429001068,Main Office,2017-10-27 07:11:23,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,429,1,N
+500029744,500001068,Main Office,2017-10-27 07:11:54,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,500,1,N
+430029744,430001068,Main Office,2017-10-27 07:12:11,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,430,1,N
+445029744,445001068,Main Office,2017-10-27 07:12:14,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,445,1,N
+464029744,464001068,Main Office,2017-10-27 07:12:23,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,464,1,N
+44029744,44001068,Main Office,2017-10-27 07:14:29,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,44,1,N
+35029744,35001068,Main Office,2017-10-27 07:14:31,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,35,1,N
+448029744,448001068,Main Office,2017-10-27 07:15:04,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,448,1,N
+413029744,413001068,Main Office,2017-10-27 07:16:37,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,413,1,N
+446029744,446001068,Main Office,2017-10-27 07:17:11,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,446,1,N
+222029744,222001068,Main Office,2017-10-27 07:19:07,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,222,1,N
+447029744,447001068,Main Office,2017-10-27 07:21:04,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,447,1,N
+224029744,224001068,Main Office,2017-10-27 07:23:41,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,224,1,N
+223029744,223001068,Main Office,2017-10-27 07:25:46,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,223,1,N
+24029744,24001068,Main Office,2017-10-27 07:35:28,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,24,1,N
+412029744,412001068,Main Office,2017-10-27 07:39:20,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,412,1,N
+419029744,419001068,Main Office,2017-10-27 07:40:36,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,419,1,N
+458029744,458001068,Main Office,2017-10-27 07:40:52,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,458,1,N
+999029744,999001068,Main Office,2017-11-09 13:40:45,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,999,1,N
+335029744,335001068,Main Office,2017-11-15 17:38:41,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,335,1,N
+349029744,349001068,Main Office,2017-11-15 17:50:41,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,349,1,N
+315029744,315001068,Main Office,2017-11-15 17:53:05,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,315,1,N
+306029744,306001068,Main Office,2017-11-15 17:56:55,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,306,1,N
+321029744,321001068,Main Office,2017-11-15 17:57:45,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,321,1,N
+320029744,320001068,Main Office,2017-11-15 17:58:32,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,320,1,N
+305029744,305001068,Main Office,2017-11-15 17:58:35,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,305,1,N
+348029744,348001068,Main Office,2017-11-15 18:00:31,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,348,1,N
+331029744,331001068,Main Office,2017-11-15 18:00:40,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,331,1,N
+350029744,350001068,Main Office,2017-11-15 18:01:04,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,350,1,N
+314029744,314001068,Main Office,2017-11-15 18:02:54,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,314,1,N
+337029744,337001068,Main Office,2017-11-15 18:03:46,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,337,1,N
+307029744,307001068,Main Office,2017-11-15 18:03:52,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,307,1,N
+325029744,325001068,Main Office,2017-11-15 18:04:42,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,325,1,N
+42029744,42001068,Main Office,2017-11-15 18:06:35,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,42,1,N
+339029744,339001068,Main Office,2017-11-15 18:07:22,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,339,1,N
+333029744,333001068,Main Office,2017-11-15 18:08:23,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,333,1,N
+318029744,318001068,Main Office,2017-11-15 18:09:08,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,318,1,N
+346029744,346001068,Main Office,2017-11-15 18:09:12,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,346,1,N
+330029744,330001068,Main Office,2017-11-15 18:09:48,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,330,1,N
+329029744,329001068,Main Office,2017-11-15 18:11:18,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,329,1,N
+338029744,338001068,Main Office,2017-11-15 18:11:34,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,338,1,N
+308029744,308001068,Main Office,2017-11-15 18:12:13,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,308,1,N
+340029744,340001068,Main Office,2017-11-15 18:13:12,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,340,1,N
+303029744,303001068,Main Office,2017-11-15 18:13:56,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,303,1,N
+334029744,334001068,Main Office,2017-11-15 18:16:19,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,334,1,N
+317029744,317001068,Main Office,2017-11-15 18:16:20,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,317,1,N
+880029744,880001068,Main Office,2017-11-15 18:17:06,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,880,1,N
+323029744,323001068,Main Office,2017-11-15 18:17:41,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,323,1,N
+302029744,302001068,Main Office,2017-11-15 18:18:43,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,302,1,N
+26029744,26001068,Main Office,2017-11-15 18:22:56,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,26,1,N
+336029744,336001068,Main Office,2017-11-15 18:24:15,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,336,1,N
+13029744,13001068,Main Office,2017-11-15 18:25:04,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,13,1,N
+319029744,319001068,Main Office,2017-11-15 18:25:05,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,319,1,N
+327029744,327001068,Main Office,2017-11-15 18:28:00,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,327,1,N
+324029744,324001068,Main Office,2017-11-15 18:32:54,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,324,1,N
+309029744,309001068,Main Office,2017-11-15 18:36:06,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,309,1,N
+345029744,345001068,Main Office,2017-11-15 18:37:27,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,345,1,N
+310029744,310001068,Main Office,2017-11-15 18:37:43,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,310,1,N
+304029744,304001068,Main Office,2017-11-15 18:38:45,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,304,1,N
+1029744,1001068,Main Office,2017-11-15 18:38:47,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,1,1,N
+328029744,328001068,Main Office,2017-11-15 18:42:02,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,328,1,N
+312029744,312001068,Main Office,2017-11-15 18:44:47,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,312,1,N
+341029744,341001068,Main Office,2017-11-15 18:48:16,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,341,1,N
+100029842,100001094,Main Office,2018-04-05 16:34:29,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,100,1,N
+100029690,100001036,Main Office,2018-04-05 16:34:29,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,100,1,N
+100029744,100001068,Main Office,2018-04-05 16:34:29,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,100,1,N
+100029901,100001053,Main Office,2018-04-05 16:34:29,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,100,1,N
+29901,1053,Main Office,2005-08-01 00:00:00,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,95020,1,N
+129901,101053,Main Office,2005-08-01 00:00:00,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,95020,1,N
+229901,201053,Main Office,2005-08-01 00:00:00,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,95020,1,N
+329901,301053,Main Office,2005-08-01 00:00:00,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,95020,1,N
+429901,401053,Main Office,2005-08-01 00:00:00,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,95020,1,N
+529901,501053,Main Office,2005-08-01 00:00:00,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,95020,1,N
+629901,601053,Main Office,2005-08-01 00:00:00,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,95020,1,N
+729901,701053,Main Office,2005-08-01 00:00:00,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,95020,1,N
+411029901,411001053,Main Office,2017-09-05 17:46:01,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,411,1,N
+450029901,450001053,Main Office,2017-09-05 21:29:50,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,450,1,N
+410029901,410001053,Main Office,2017-09-05 21:42:09,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,410,1,N
+102029901,102001053,Main Office,2017-09-28 17:54:06,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,102,1,N
+115029901,115001053,Main Office,2017-09-28 17:54:32,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,115,1,N
+104029901,104001053,Main Office,2017-09-28 17:57:51,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,104,1,N
+128029901,128001053,Main Office,2017-09-28 17:57:52,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,128,1,N
+117029901,117001053,Main Office,2017-09-28 18:01:01,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,117,1,N
+130029901,130001053,Main Office,2017-09-28 18:02:25,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,130,1,N
+109029901,109001053,Main Office,2017-09-28 18:02:26,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,109,1,N
+111029901,111001053,Main Office,2017-09-28 18:03:44,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,111,1,N
+101029901,101001053,Main Office,2017-09-28 18:04:54,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,101,1,N
+129029901,129001053,Main Office,2017-09-28 18:06:02,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,129,1,N
+7029901,7001053,Main Office,2017-09-28 18:06:49,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,7,1,N
+107029901,107001053,Main Office,2017-09-28 18:09:53,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,107,1,N
+113029901,113001053,Main Office,2017-09-28 18:12:16,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,113,1,N
+112029901,112001053,Main Office,2017-09-28 18:15:36,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,112,1,N
+110029901,110001053,Main Office,2017-09-28 18:18:46,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,110,1,N
+127029901,127001053,Main Office,2017-09-28 18:20:31,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,127,1,N
+103029901,103001053,Main Office,2017-09-28 18:21:40,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,103,1,N
+23029901,23001053,Main Office,2017-09-28 18:21:57,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,23,1,N
+126029901,126001053,Main Office,2017-09-28 18:22:54,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,126,1,N
+998029901,998001053,Main Office,2017-09-28 18:23:32,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,998,1,N
+16029901,16001053,Main Office,2017-09-28 18:25:29,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,16,1,N
+22029901,22001053,Main Office,2017-09-28 18:25:33,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,22,1,N
+125029901,125001053,Main Office,2017-09-28 18:26:42,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,125,1,N
+121029901,121001053,Main Office,2017-09-28 18:27:59,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,121,1,N
+124029901,124001053,Main Office,2017-09-28 18:31:46,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,124,1,N
+108029901,108001053,Main Office,2017-09-28 18:31:49,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,108,1,N
+106029901,106001053,Main Office,2017-09-28 18:32:43,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,106,1,N
+105029901,105001053,Main Office,2017-09-28 18:32:52,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,105,1,N
+118029901,118001053,Main Office,2017-09-28 18:37:09,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,118,1,N
+114029901,114001053,Main Office,2017-09-28 18:49:33,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,114,1,N
+296029901,296001053,Main Office,2017-10-18 14:20:35,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,296,1,N
+420029901,420001053,Main Office,2017-10-27 06:39:19,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,420,1,N
+434029901,434001053,Main Office,2017-10-27 06:43:35,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,434,1,N
+416029901,416001053,Main Office,2017-10-27 06:46:32,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,416,1,N
+369029901,369001053,Main Office,2017-10-27 06:46:58,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,369,1,N
+422029901,422001053,Main Office,2017-10-27 06:48:53,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,422,1,N
+49029901,49001053,Main Office,2017-10-27 06:51:47,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,49,1,N
+426029901,426001053,Main Office,2017-10-27 06:55:24,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,426,1,N
+428029901,428001053,Main Office,2017-10-27 06:55:57,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,428,1,N
+439029901,439001053,Main Office,2017-10-27 06:58:30,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,439,1,N
+29029901,29001053,Main Office,2017-10-27 07:02:33,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,29,1,N
+438029901,438001053,Main Office,2017-10-27 07:03:47,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,438,1,N
+433029901,433001053,Main Office,2017-10-27 07:06:33,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,433,1,N
+432029901,432001053,Main Office,2017-10-27 07:08:15,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,432,1,N
+440029901,440001053,Main Office,2017-10-27 07:08:20,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,440,1,N
+46029901,46001053,Main Office,2017-10-27 07:11:08,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,46,1,N
+429029901,429001053,Main Office,2017-10-27 07:11:23,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,429,1,N
+500029901,500001053,Main Office,2017-10-27 07:11:54,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,500,1,N
+430029901,430001053,Main Office,2017-10-27 07:12:11,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,430,1,N
+445029901,445001053,Main Office,2017-10-27 07:12:14,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,445,1,N
+464029901,464001053,Main Office,2017-10-27 07:12:23,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,464,1,N
+44029901,44001053,Main Office,2017-10-27 07:14:29,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,44,1,N
+35029901,35001053,Main Office,2017-10-27 07:14:31,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,35,1,N
+448029901,448001053,Main Office,2017-10-27 07:15:04,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,448,1,N
+413029901,413001053,Main Office,2017-10-27 07:16:37,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,413,1,N
+446029901,446001053,Main Office,2017-10-27 07:17:11,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,446,1,N
+222029901,222001053,Main Office,2017-10-27 07:19:07,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,222,1,N
+447029901,447001053,Main Office,2017-10-27 07:21:04,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,447,1,N
+224029901,224001053,Main Office,2017-10-27 07:23:41,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,224,1,N
+223029901,223001053,Main Office,2017-10-27 07:25:46,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,223,1,N
+24029901,24001053,Main Office,2017-10-27 07:35:28,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,24,1,N
+10029842,10001094,Main Office,2018-04-05 16:35:41,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,10,1,N
+10029690,10001036,Main Office,2018-04-05 16:35:41,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,10,1,N
+412029901,412001053,Main Office,2017-10-27 07:39:20,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,412,1,N
+10029744,10001068,Main Office,2018-04-05 16:35:41,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,10,1,N
+419029901,419001053,Main Office,2017-10-27 07:40:36,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,419,1,N
+458029901,458001053,Main Office,2017-10-27 07:40:52,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,458,1,N
+10029901,10001053,Main Office,2018-04-05 16:35:41,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,10,1,N
+999029901,999001053,Main Office,2017-11-09 13:40:45,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,999,1,N
+335029901,335001053,Main Office,2017-11-15 17:38:41,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,335,1,N
+349029901,349001053,Main Office,2017-11-15 17:50:41,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,349,1,N
+315029901,315001053,Main Office,2017-11-15 17:53:05,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,315,1,N
+306029901,306001053,Main Office,2017-11-15 17:56:55,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,306,1,N
+321029901,321001053,Main Office,2017-11-15 17:57:45,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,321,1,N
+320029901,320001053,Main Office,2017-11-15 17:58:32,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,320,1,N
+305029901,305001053,Main Office,2017-11-15 17:58:35,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,305,1,N
+348029901,348001053,Main Office,2017-11-15 18:00:31,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,348,1,N
+331029901,331001053,Main Office,2017-11-15 18:00:40,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,331,1,N
+350029901,350001053,Main Office,2017-11-15 18:01:04,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,350,1,N
+314029901,314001053,Main Office,2017-11-15 18:02:54,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,314,1,N
+337029901,337001053,Main Office,2017-11-15 18:03:46,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,337,1,N
+307029901,307001053,Main Office,2017-11-15 18:03:52,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,307,1,N
+325029901,325001053,Main Office,2017-11-15 18:04:42,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,325,1,N
+42029901,42001053,Main Office,2017-11-15 18:06:35,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,42,1,N
+339029901,339001053,Main Office,2017-11-15 18:07:22,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,339,1,N
+333029901,333001053,Main Office,2017-11-15 18:08:23,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,333,1,N
+318029901,318001053,Main Office,2017-11-15 18:09:08,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,318,1,N
+346029901,346001053,Main Office,2017-11-15 18:09:12,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,346,1,N
+330029901,330001053,Main Office,2017-11-15 18:09:48,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,330,1,N
+329029901,329001053,Main Office,2017-11-15 18:11:18,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,329,1,N
+338029901,338001053,Main Office,2017-11-15 18:11:34,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,338,1,N
+308029901,308001053,Main Office,2017-11-15 18:12:13,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,308,1,N
+340029901,340001053,Main Office,2017-11-15 18:13:12,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,340,1,N
+303029901,303001053,Main Office,2017-11-15 18:13:56,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,303,1,N
+334029901,334001053,Main Office,2017-11-15 18:16:19,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,334,1,N
+317029901,317001053,Main Office,2017-11-15 18:16:20,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,317,1,N
+880029901,880001053,Main Office,2017-11-15 18:17:06,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,880,1,N
+323029901,323001053,Main Office,2017-11-15 18:17:41,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,323,1,N
+302029901,302001053,Main Office,2017-11-15 18:18:43,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,302,1,N
+26029901,26001053,Main Office,2017-11-15 18:22:56,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,26,1,N
+336029901,336001053,Main Office,2017-11-15 18:24:15,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,336,1,N
+13029901,13001053,Main Office,2017-11-15 18:25:04,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,13,1,N
+319029901,319001053,Main Office,2017-11-15 18:25:05,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,319,1,N
+327029901,327001053,Main Office,2017-11-15 18:28:00,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,327,1,N
+324029901,324001053,Main Office,2017-11-15 18:32:54,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,324,1,N
+309029901,309001053,Main Office,2017-11-15 18:36:06,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,309,1,N
+345029901,345001053,Main Office,2017-11-15 18:37:27,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,345,1,N
+310029901,310001053,Main Office,2017-11-15 18:37:43,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,310,1,N
+304029901,304001053,Main Office,2017-11-15 18:38:45,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,304,1,N
+1029901,1001053,Main Office,2017-11-15 18:38:47,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,1,1,N
+328029901,328001053,Main Office,2017-11-15 18:42:02,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,328,1,N
+312029901,312001053,Main Office,2017-11-15 18:44:47,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,312,1,N
+341029901,341001053,Main Office,2017-11-15 18:48:16,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,341,1,N
+11029842,11001094,Main Office,2018-04-05 16:36:48,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,11,1,N
+11029744,11001068,Main Office,2018-04-05 16:36:48,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,11,1,N
+11029901,11001053,Main Office,2018-04-05 16:36:48,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,11,1,N
+590029842,590001094,Main Office,2018-04-06 08:47:29,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,590,1,N
+590029744,590001068,Main Office,2018-04-06 08:47:29,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,590,1,N
+590029901,590001053,Main Office,2018-04-06 08:47:29,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,590,1,N
+510029842,510001094,Main Office,2018-04-06 08:50:18,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,510,1,N
+510029744,510001068,Main Office,2018-04-06 08:50:18,0,Mr.,John,,Evans,Real Sporting Goods,adventure-worksshu0,7709 West Virginia Avenue,,Phoenix,Arizona,United States,510,1,N
+510029901,510001053,Main Office,2018-04-06 08:50:18,0,Mr.,John,,Kelly,Sturdy Toys,adventure-worksshu0,Pacific West Outlet,,Gilroy,California,United States,510,1,N
+29781,1035,Main Office,2006-09-01 00:00:00,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,91801,1,N
+129781,101035,Main Office,2006-09-01 00:00:00,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,91801,1,N
+229781,201035,Main Office,2006-09-01 00:00:00,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,91801,1,N
+329781,301035,Main Office,2006-09-01 00:00:00,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,91801,1,N
+429781,401035,Main Office,2006-09-01 00:00:00,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,91801,1,N
+529781,501035,Main Office,2006-09-01 00:00:00,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,91801,1,N
+629781,601035,Main Office,2006-09-01 00:00:00,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,91801,1,N
+729781,701035,Main Office,2006-09-01 00:00:00,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,91801,1,N
+829728,801103,Main Office,2005-11-01 00:00:00,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,84065,1,N
+830022,801041,Main Office,2005-11-01 00:00:00,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,92020,1,N
+829598,801000,Main Office,2006-08-01 00:00:00,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,92102,1,N
+829781,801035,Main Office,2006-09-01 00:00:00,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,91801,1,N
+929728,901103,Main Office,2005-11-01 00:00:00,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,84065,1,N
+930022,901041,Main Office,2005-11-01 00:00:00,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,92020,1,N
+929598,901000,Main Office,2006-08-01 00:00:00,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,92102,1,N
+929781,901035,Main Office,2006-09-01 00:00:00,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,91801,1,N
+1129728,1101103,Main Office,2005-11-01 00:00:00,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,84065,1,N
+1130022,1101041,Main Office,2005-11-01 00:00:00,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,92020,1,N
+1129598,1101000,Main Office,2006-08-01 00:00:00,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,92102,1,N
+1129781,1101035,Main Office,2006-09-01 00:00:00,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,91801,1,N
+1229728,1201103,Main Office,2005-11-01 00:00:00,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,84065,1,N
+1230022,1201041,Main Office,2005-11-01 00:00:00,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,92020,1,N
+1229781,1201035,Main Office,2006-09-01 00:00:00,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,91801,1,N
+1329728,1301103,Main Office,2005-11-01 00:00:00,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,84065,1,N
+1330022,1301041,Main Office,2005-11-01 00:00:00,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,92020,1,N
+1329781,1301035,Main Office,2006-09-01 00:00:00,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,91801,1,N
+1429728,1401103,Main Office,2005-11-01 00:00:00,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,84065,1,N
+1430022,1401041,Main Office,2005-11-01 00:00:00,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,92020,1,N
+1429781,1401035,Main Office,2006-09-01 00:00:00,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,91801,1,N
+1529728,1501103,Main Office,2005-11-01 00:00:00,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,84065,1,N
+1530022,1501041,Main Office,2005-11-01 00:00:00,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,92020,1,N
+1529781,1501035,Main Office,2006-09-01 00:00:00,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,91801,1,N
+411029781,411001035,Main Office,2017-09-05 17:46:01,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,411,1,N
+450029781,450001035,Main Office,2017-09-05 21:29:50,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,450,1,N
+410029781,410001035,Main Office,2017-09-05 21:42:09,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,410,1,N
+102029781,102001035,Main Office,2017-09-28 17:54:06,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,102,1,N
+115029781,115001035,Main Office,2017-09-28 17:54:32,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,115,1,N
+115029690,115001036,Main Office,2017-09-28 17:54:32,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,115,1,N
+104029781,104001035,Main Office,2017-09-28 17:57:51,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,104,1,N
+104029690,104001036,Main Office,2017-09-28 17:57:51,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,104,1,N
+128029781,128001035,Main Office,2017-09-28 17:57:52,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,128,1,N
+128029690,128001036,Main Office,2017-09-28 17:57:52,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,128,1,N
+117029781,117001035,Main Office,2017-09-28 18:01:01,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,117,1,N
+117029690,117001036,Main Office,2017-09-28 18:01:01,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,117,1,N
+130029781,130001035,Main Office,2017-09-28 18:02:25,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,130,1,N
+130029690,130001036,Main Office,2017-09-28 18:02:25,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,130,1,N
+109029781,109001035,Main Office,2017-09-28 18:02:26,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,109,1,N
+109029690,109001036,Main Office,2017-09-28 18:02:26,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,109,1,N
+111029781,111001035,Main Office,2017-09-28 18:03:44,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,111,1,N
+111029690,111001036,Main Office,2017-09-28 18:03:44,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,111,1,N
+101029781,101001035,Main Office,2017-09-28 18:04:54,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,101,1,N
+101029690,101001036,Main Office,2017-09-28 18:04:54,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,101,1,N
+129029781,129001035,Main Office,2017-09-28 18:06:02,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,129,1,N
+129029690,129001036,Main Office,2017-09-28 18:06:02,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,129,1,N
+7029781,7001035,Main Office,2017-09-28 18:06:49,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,7,1,N
+7029690,7001036,Main Office,2017-09-28 18:06:49,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,7,1,N
+107029781,107001035,Main Office,2017-09-28 18:09:53,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,107,1,N
+107029690,107001036,Main Office,2017-09-28 18:09:53,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,107,1,N
+113029781,113001035,Main Office,2017-09-28 18:12:16,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,113,1,N
+113029690,113001036,Main Office,2017-09-28 18:12:16,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,113,1,N
+112029781,112001035,Main Office,2017-09-28 18:15:36,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,112,1,N
+112029690,112001036,Main Office,2017-09-28 18:15:36,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,112,1,N
+110029781,110001035,Main Office,2017-09-28 18:18:46,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,110,1,N
+127029781,127001035,Main Office,2017-09-28 18:20:31,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,127,1,N
+103029781,103001035,Main Office,2017-09-28 18:21:40,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,103,1,N
+23029781,23001035,Main Office,2017-09-28 18:21:57,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,23,1,N
+126029781,126001035,Main Office,2017-09-28 18:22:54,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,126,1,N
+998029781,998001035,Main Office,2017-09-28 18:23:32,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,998,1,N
+16029781,16001035,Main Office,2017-09-28 18:25:29,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,16,1,N
+22029781,22001035,Main Office,2017-09-28 18:25:33,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,22,1,N
+125029781,125001035,Main Office,2017-09-28 18:26:42,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,125,1,N
+121029781,121001035,Main Office,2017-09-28 18:27:59,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,121,1,N
+124029781,124001035,Main Office,2017-09-28 18:31:46,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,124,1,N
+108029781,108001035,Main Office,2017-09-28 18:31:49,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,108,1,N
+106029781,106001035,Main Office,2017-09-28 18:32:43,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,106,1,N
+105029781,105001035,Main Office,2017-09-28 18:32:52,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,105,1,N
+118029781,118001035,Main Office,2017-09-28 18:37:09,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,118,1,N
+114029781,114001035,Main Office,2017-09-28 18:49:33,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,114,1,N
+296029781,296001035,Main Office,2017-10-18 14:20:35,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,296,1,N
+420029781,420001035,Main Office,2017-10-27 06:39:19,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,420,1,N
+434029781,434001035,Main Office,2017-10-27 06:43:35,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,434,1,N
+416029781,416001035,Main Office,2017-10-27 06:46:32,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,416,1,N
+369029781,369001035,Main Office,2017-10-27 06:46:58,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,369,1,N
+422029781,422001035,Main Office,2017-10-27 06:48:53,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,422,1,N
+49029781,49001035,Main Office,2017-10-27 06:51:47,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,49,1,N
+426029781,426001035,Main Office,2017-10-27 06:55:24,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,426,1,N
+428029781,428001035,Main Office,2017-10-27 06:55:57,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,428,1,N
+439029781,439001035,Main Office,2017-10-27 06:58:30,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,439,1,N
+29029781,29001035,Main Office,2017-10-27 07:02:33,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,29,1,N
+438029781,438001035,Main Office,2017-10-27 07:03:47,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,438,1,N
+433029781,433001035,Main Office,2017-10-27 07:06:33,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,433,1,N
+432029781,432001035,Main Office,2017-10-27 07:08:15,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,432,1,N
+440029781,440001035,Main Office,2017-10-27 07:08:20,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,440,1,N
+46029781,46001035,Main Office,2017-10-27 07:11:08,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,46,1,N
+429029781,429001035,Main Office,2017-10-27 07:11:23,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,429,1,N
+500029781,500001035,Main Office,2017-10-27 07:11:54,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,500,1,N
+430029781,430001035,Main Office,2017-10-27 07:12:11,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,430,1,N
+445029781,445001035,Main Office,2017-10-27 07:12:14,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,445,1,N
+464029781,464001035,Main Office,2017-10-27 07:12:23,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,464,1,N
+44029781,44001035,Main Office,2017-10-27 07:14:29,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,44,1,N
+35029781,35001035,Main Office,2017-10-27 07:14:31,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,35,1,N
+448029781,448001035,Main Office,2017-10-27 07:15:04,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,448,1,N
+413029781,413001035,Main Office,2017-10-27 07:16:37,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,413,1,N
+446029781,446001035,Main Office,2017-10-27 07:17:11,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,446,1,N
+222029781,222001035,Main Office,2017-10-27 07:19:07,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,222,1,N
+447029781,447001035,Main Office,2017-10-27 07:21:04,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,447,1,N
+224029781,224001035,Main Office,2017-10-27 07:23:41,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,224,1,N
+223029781,223001035,Main Office,2017-10-27 07:25:46,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,223,1,N
+24029781,24001035,Main Office,2017-10-27 07:35:28,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,24,1,N
+412029781,412001035,Main Office,2017-10-27 07:39:20,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,412,1,N
+419029781,419001035,Main Office,2017-10-27 07:40:36,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,419,1,N
+458029781,458001035,Main Office,2017-10-27 07:40:52,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,458,1,N
+999029781,999001035,Main Office,2017-11-09 13:40:45,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,999,1,N
+335029781,335001035,Main Office,2017-11-15 17:38:41,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,335,1,N
+349029781,349001035,Main Office,2017-11-15 17:50:41,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,349,1,N
+315029781,315001035,Main Office,2017-11-15 17:53:05,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,315,1,N
+306029781,306001035,Main Office,2017-11-15 17:56:55,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,306,1,N
+321029781,321001035,Main Office,2017-11-15 17:57:45,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,321,1,N
+320029781,320001035,Main Office,2017-11-15 17:58:32,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,320,1,N
+305029781,305001035,Main Office,2017-11-15 17:58:35,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,305,1,N
+29728,1103,Main Office,2005-11-01 00:00:00,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,84065,1,N
+30022,1041,Main Office,2005-11-01 00:00:00,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,92020,1,N
+29598,1000,Main Office,2006-08-01 00:00:00,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,92102,1,N
+129728,101103,Main Office,2005-11-01 00:00:00,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,84065,1,N
+130022,101041,Main Office,2005-11-01 00:00:00,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,92020,1,N
+129598,101000,Main Office,2006-08-01 00:00:00,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,92102,1,N
+229728,201103,Main Office,2005-11-01 00:00:00,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,84065,1,N
+230022,201041,Main Office,2005-11-01 00:00:00,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,92020,1,N
+229598,201000,Main Office,2006-08-01 00:00:00,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,92102,1,N
+329728,301103,Main Office,2005-11-01 00:00:00,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,84065,1,N
+330022,301041,Main Office,2005-11-01 00:00:00,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,92020,1,N
+329598,301000,Main Office,2006-08-01 00:00:00,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,92102,1,N
+429728,401103,Main Office,2005-11-01 00:00:00,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,84065,1,N
+430022,401041,Main Office,2005-11-01 00:00:00,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,92020,1,N
+429598,401000,Main Office,2006-08-01 00:00:00,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,92102,1,N
+529728,501103,Main Office,2005-11-01 00:00:00,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,84065,1,N
+530022,501041,Main Office,2005-11-01 00:00:00,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,92020,1,N
+529598,501000,Main Office,2006-08-01 00:00:00,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,92102,1,N
+629728,601103,Main Office,2005-11-01 00:00:00,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,84065,1,N
+630022,601041,Main Office,2005-11-01 00:00:00,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,92020,1,N
+629598,601000,Main Office,2006-08-01 00:00:00,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,92102,1,N
+729728,701103,Main Office,2005-11-01 00:00:00,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,84065,1,N
+730022,701041,Main Office,2005-11-01 00:00:00,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,92020,1,N
+729598,701000,Main Office,2006-08-01 00:00:00,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,92102,1,N
+411030022,411001041,Main Office,2017-09-05 17:46:01,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,411,1,N
+411029728,411001103,Main Office,2017-09-05 17:46:01,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,411,1,N
+411029598,411001000,Main Office,2017-09-05 17:46:01,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,411,1,N
+450030022,450001041,Main Office,2017-09-05 21:29:50,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,450,1,N
+450029728,450001103,Main Office,2017-09-05 21:29:50,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,450,1,N
+450029598,450001000,Main Office,2017-09-05 21:29:50,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,450,1,N
+410030022,410001041,Main Office,2017-09-05 21:42:09,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,410,1,N
+410029728,410001103,Main Office,2017-09-05 21:42:09,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,410,1,N
+410029598,410001000,Main Office,2017-09-05 21:42:09,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,410,1,N
+102030022,102001041,Main Office,2017-09-28 17:54:06,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,102,1,N
+102029728,102001103,Main Office,2017-09-28 17:54:06,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,102,1,N
+102029598,102001000,Main Office,2017-09-28 17:54:06,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,102,1,N
+115030022,115001041,Main Office,2017-09-28 17:54:32,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,115,1,N
+115029728,115001103,Main Office,2017-09-28 17:54:32,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,115,1,N
+115029598,115001000,Main Office,2017-09-28 17:54:32,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,115,1,N
+104029598,104001000,Main Office,2017-09-28 17:57:51,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,104,1,N
+104030022,104001041,Main Office,2017-09-28 17:57:51,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,104,1,N
+104029728,104001103,Main Office,2017-09-28 17:57:51,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,104,1,N
+128029598,128001000,Main Office,2017-09-28 17:57:52,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,128,1,N
+128030022,128001041,Main Office,2017-09-28 17:57:52,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,128,1,N
+128029728,128001103,Main Office,2017-09-28 17:57:52,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,128,1,N
+117029598,117001000,Main Office,2017-09-28 18:01:01,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,117,1,N
+117030022,117001041,Main Office,2017-09-28 18:01:01,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,117,1,N
+117029728,117001103,Main Office,2017-09-28 18:01:01,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,117,1,N
+130029598,130001000,Main Office,2017-09-28 18:02:25,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,130,1,N
+130030022,130001041,Main Office,2017-09-28 18:02:25,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,130,1,N
+130029728,130001103,Main Office,2017-09-28 18:02:25,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,130,1,N
+109029598,109001000,Main Office,2017-09-28 18:02:26,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,109,1,N
+109030022,109001041,Main Office,2017-09-28 18:02:26,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,109,1,N
+109029728,109001103,Main Office,2017-09-28 18:02:26,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,109,1,N
+111029598,111001000,Main Office,2017-09-28 18:03:44,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,111,1,N
+111030022,111001041,Main Office,2017-09-28 18:03:44,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,111,1,N
+111029728,111001103,Main Office,2017-09-28 18:03:44,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,111,1,N
+101029598,101001000,Main Office,2017-09-28 18:04:54,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,101,1,N
+101030022,101001041,Main Office,2017-09-28 18:04:54,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,101,1,N
+101029728,101001103,Main Office,2017-09-28 18:04:54,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,101,1,N
+129029598,129001000,Main Office,2017-09-28 18:06:02,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,129,1,N
+129030022,129001041,Main Office,2017-09-28 18:06:02,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,129,1,N
+129029728,129001103,Main Office,2017-09-28 18:06:02,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,129,1,N
+7029598,7001000,Main Office,2017-09-28 18:06:49,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,7,1,N
+7030022,7001041,Main Office,2017-09-28 18:06:49,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,7,1,N
+7029728,7001103,Main Office,2017-09-28 18:06:49,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,7,1,N
+107029598,107001000,Main Office,2017-09-28 18:09:53,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,107,1,N
+107030022,107001041,Main Office,2017-09-28 18:09:53,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,107,1,N
+107029728,107001103,Main Office,2017-09-28 18:09:53,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,107,1,N
+113029598,113001000,Main Office,2017-09-28 18:12:16,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,113,1,N
+113030022,113001041,Main Office,2017-09-28 18:12:16,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,113,1,N
+113029728,113001103,Main Office,2017-09-28 18:12:16,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,113,1,N
+112029598,112001000,Main Office,2017-09-28 18:15:36,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,112,1,N
+112030022,112001041,Main Office,2017-09-28 18:15:36,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,112,1,N
+112029728,112001103,Main Office,2017-09-28 18:15:36,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,112,1,N
+110029598,110001000,Main Office,2017-09-28 18:18:46,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,110,1,N
+110030022,110001041,Main Office,2017-09-28 18:18:46,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,110,1,N
+110029728,110001103,Main Office,2017-09-28 18:18:46,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,110,1,N
+127029598,127001000,Main Office,2017-09-28 18:20:31,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,127,1,N
+127030022,127001041,Main Office,2017-09-28 18:20:31,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,127,1,N
+127029728,127001103,Main Office,2017-09-28 18:20:31,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,127,1,N
+103029598,103001000,Main Office,2017-09-28 18:21:40,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,103,1,N
+103030022,103001041,Main Office,2017-09-28 18:21:40,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,103,1,N
+103029728,103001103,Main Office,2017-09-28 18:21:40,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,103,1,N
+23029598,23001000,Main Office,2017-09-28 18:21:57,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,23,1,N
+23030022,23001041,Main Office,2017-09-28 18:21:57,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,23,1,N
+23029728,23001103,Main Office,2017-09-28 18:21:57,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,23,1,N
+126029598,126001000,Main Office,2017-09-28 18:22:54,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,126,1,N
+126030022,126001041,Main Office,2017-09-28 18:22:54,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,126,1,N
+126029728,126001103,Main Office,2017-09-28 18:22:54,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,126,1,N
+998029598,998001000,Main Office,2017-09-28 18:23:32,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,998,1,N
+998030022,998001041,Main Office,2017-09-28 18:23:32,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,998,1,N
+998029728,998001103,Main Office,2017-09-28 18:23:32,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,998,1,N
+16029598,16001000,Main Office,2017-09-28 18:25:29,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,16,1,N
+16030022,16001041,Main Office,2017-09-28 18:25:29,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,16,1,N
+16029728,16001103,Main Office,2017-09-28 18:25:29,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,16,1,N
+22029598,22001000,Main Office,2017-09-28 18:25:33,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,22,1,N
+22030022,22001041,Main Office,2017-09-28 18:25:33,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,22,1,N
+22029728,22001103,Main Office,2017-09-28 18:25:33,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,22,1,N
+125029598,125001000,Main Office,2017-09-28 18:26:42,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,125,1,N
+125030022,125001041,Main Office,2017-09-28 18:26:42,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,125,1,N
+125029728,125001103,Main Office,2017-09-28 18:26:42,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,125,1,N
+121029598,121001000,Main Office,2017-09-28 18:27:59,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,121,1,N
+121030022,121001041,Main Office,2017-09-28 18:27:59,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,121,1,N
+121029728,121001103,Main Office,2017-09-28 18:27:59,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,121,1,N
+124029598,124001000,Main Office,2017-09-28 18:31:46,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,124,1,N
+124030022,124001041,Main Office,2017-09-28 18:31:46,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,124,1,N
+124029728,124001103,Main Office,2017-09-28 18:31:46,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,124,1,N
+108029598,108001000,Main Office,2017-09-28 18:31:49,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,108,1,N
+108030022,108001041,Main Office,2017-09-28 18:31:49,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,108,1,N
+108029728,108001103,Main Office,2017-09-28 18:31:49,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,108,1,N
+106029598,106001000,Main Office,2017-09-28 18:32:43,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,106,1,N
+106030022,106001041,Main Office,2017-09-28 18:32:43,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,106,1,N
+106029728,106001103,Main Office,2017-09-28 18:32:43,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,106,1,N
+105029598,105001000,Main Office,2017-09-28 18:32:52,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,105,1,N
+105030022,105001041,Main Office,2017-09-28 18:32:52,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,105,1,N
+105029728,105001103,Main Office,2017-09-28 18:32:52,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,105,1,N
+118029598,118001000,Main Office,2017-09-28 18:37:09,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,118,1,N
+118030022,118001041,Main Office,2017-09-28 18:37:09,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,118,1,N
+118029728,118001103,Main Office,2017-09-28 18:37:09,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,118,1,N
+114029598,114001000,Main Office,2017-09-28 18:49:33,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,114,1,N
+114030022,114001041,Main Office,2017-09-28 18:49:33,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,114,1,N
+114029728,114001103,Main Office,2017-09-28 18:49:33,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,114,1,N
+296029598,296001000,Main Office,2017-10-18 14:20:35,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,296,1,N
+296030022,296001041,Main Office,2017-10-18 14:20:35,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,296,1,N
+296029728,296001103,Main Office,2017-10-18 14:20:35,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,296,1,N
+420029598,420001000,Main Office,2017-10-27 06:39:19,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,420,1,N
+420030022,420001041,Main Office,2017-10-27 06:39:19,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,420,1,N
+420029728,420001103,Main Office,2017-10-27 06:39:19,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,420,1,N
+434029598,434001000,Main Office,2017-10-27 06:43:35,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,434,1,N
+434030022,434001041,Main Office,2017-10-27 06:43:35,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,434,1,N
+434029728,434001103,Main Office,2017-10-27 06:43:35,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,434,1,N
+416029598,416001000,Main Office,2017-10-27 06:46:32,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,416,1,N
+416030022,416001041,Main Office,2017-10-27 06:46:32,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,416,1,N
+416029728,416001103,Main Office,2017-10-27 06:46:32,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,416,1,N
+369029598,369001000,Main Office,2017-10-27 06:46:58,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,369,1,N
+369030022,369001041,Main Office,2017-10-27 06:46:58,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,369,1,N
+369029728,369001103,Main Office,2017-10-27 06:46:58,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,369,1,N
+422029598,422001000,Main Office,2017-10-27 06:48:53,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,422,1,N
+422030022,422001041,Main Office,2017-10-27 06:48:53,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,422,1,N
+422029728,422001103,Main Office,2017-10-27 06:48:53,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,422,1,N
+49029598,49001000,Main Office,2017-10-27 06:51:47,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,49,1,N
+49030022,49001041,Main Office,2017-10-27 06:51:47,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,49,1,N
+49029728,49001103,Main Office,2017-10-27 06:51:47,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,49,1,N
+426029598,426001000,Main Office,2017-10-27 06:55:24,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,426,1,N
+426030022,426001041,Main Office,2017-10-27 06:55:24,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,426,1,N
+426029728,426001103,Main Office,2017-10-27 06:55:24,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,426,1,N
+428029598,428001000,Main Office,2017-10-27 06:55:57,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,428,1,N
+428030022,428001041,Main Office,2017-10-27 06:55:57,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,428,1,N
+428029728,428001103,Main Office,2017-10-27 06:55:57,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,428,1,N
+439029598,439001000,Main Office,2017-10-27 06:58:30,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,439,1,N
+439030022,439001041,Main Office,2017-10-27 06:58:30,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,439,1,N
+439029728,439001103,Main Office,2017-10-27 06:58:30,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,439,1,N
+29029598,29001000,Main Office,2017-10-27 07:02:33,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,29,1,N
+29030022,29001041,Main Office,2017-10-27 07:02:33,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,29,1,N
+29029728,29001103,Main Office,2017-10-27 07:02:33,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,29,1,N
+438029598,438001000,Main Office,2017-10-27 07:03:47,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,438,1,N
+438030022,438001041,Main Office,2017-10-27 07:03:47,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,438,1,N
+438029728,438001103,Main Office,2017-10-27 07:03:47,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,438,1,N
+433029598,433001000,Main Office,2017-10-27 07:06:33,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,433,1,N
+433030022,433001041,Main Office,2017-10-27 07:06:33,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,433,1,N
+433029728,433001103,Main Office,2017-10-27 07:06:33,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,433,1,N
+432029598,432001000,Main Office,2017-10-27 07:08:15,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,432,1,N
+432030022,432001041,Main Office,2017-10-27 07:08:15,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,432,1,N
+432029728,432001103,Main Office,2017-10-27 07:08:15,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,432,1,N
+440029598,440001000,Main Office,2017-10-27 07:08:20,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,440,1,N
+440030022,440001041,Main Office,2017-10-27 07:08:20,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,440,1,N
+440029728,440001103,Main Office,2017-10-27 07:08:20,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,440,1,N
+46029598,46001000,Main Office,2017-10-27 07:11:08,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,46,1,N
+46030022,46001041,Main Office,2017-10-27 07:11:08,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,46,1,N
+46029728,46001103,Main Office,2017-10-27 07:11:08,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,46,1,N
+429029598,429001000,Main Office,2017-10-27 07:11:23,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,429,1,N
+429030022,429001041,Main Office,2017-10-27 07:11:23,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,429,1,N
+429029728,429001103,Main Office,2017-10-27 07:11:23,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,429,1,N
+500029598,500001000,Main Office,2017-10-27 07:11:54,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,500,1,N
+500030022,500001041,Main Office,2017-10-27 07:11:54,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,500,1,N
+500029728,500001103,Main Office,2017-10-27 07:11:54,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,500,1,N
+430029598,430001000,Main Office,2017-10-27 07:12:11,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,430,1,N
+430030022,430001041,Main Office,2017-10-27 07:12:11,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,430,1,N
+430029728,430001103,Main Office,2017-10-27 07:12:11,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,430,1,N
+445029598,445001000,Main Office,2017-10-27 07:12:14,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,445,1,N
+445030022,445001041,Main Office,2017-10-27 07:12:14,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,445,1,N
+445029728,445001103,Main Office,2017-10-27 07:12:14,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,445,1,N
+464029598,464001000,Main Office,2017-10-27 07:12:23,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,464,1,N
+464030022,464001041,Main Office,2017-10-27 07:12:23,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,464,1,N
+464029728,464001103,Main Office,2017-10-27 07:12:23,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,464,1,N
+44029598,44001000,Main Office,2017-10-27 07:14:29,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,44,1,N
+44030022,44001041,Main Office,2017-10-27 07:14:29,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,44,1,N
+44029728,44001103,Main Office,2017-10-27 07:14:29,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,44,1,N
+35029598,35001000,Main Office,2017-10-27 07:14:31,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,35,1,N
+35030022,35001041,Main Office,2017-10-27 07:14:31,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,35,1,N
+35029728,35001103,Main Office,2017-10-27 07:14:31,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,35,1,N
+448029598,448001000,Main Office,2017-10-27 07:15:04,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,448,1,N
+448030022,448001041,Main Office,2017-10-27 07:15:04,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,448,1,N
+448029728,448001103,Main Office,2017-10-27 07:15:04,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,448,1,N
+413029598,413001000,Main Office,2017-10-27 07:16:37,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,413,1,N
+413030022,413001041,Main Office,2017-10-27 07:16:37,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,413,1,N
+413029728,413001103,Main Office,2017-10-27 07:16:37,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,413,1,N
+446029598,446001000,Main Office,2017-10-27 07:17:11,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,446,1,N
+446030022,446001041,Main Office,2017-10-27 07:17:11,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,446,1,N
+446029728,446001103,Main Office,2017-10-27 07:17:11,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,446,1,N
+222029598,222001000,Main Office,2017-10-27 07:19:07,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,222,1,N
+222030022,222001041,Main Office,2017-10-27 07:19:07,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,222,1,N
+222029728,222001103,Main Office,2017-10-27 07:19:07,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,222,1,N
+447029598,447001000,Main Office,2017-10-27 07:21:04,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,447,1,N
+447030022,447001041,Main Office,2017-10-27 07:21:04,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,447,1,N
+447029728,447001103,Main Office,2017-10-27 07:21:04,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,447,1,N
+224029598,224001000,Main Office,2017-10-27 07:23:41,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,224,1,N
+224030022,224001041,Main Office,2017-10-27 07:23:41,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,224,1,N
+224029728,224001103,Main Office,2017-10-27 07:23:41,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,224,1,N
+223029598,223001000,Main Office,2017-10-27 07:25:46,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,223,1,N
+223030022,223001041,Main Office,2017-10-27 07:25:46,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,223,1,N
+223029728,223001103,Main Office,2017-10-27 07:25:46,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,223,1,N
+24029598,24001000,Main Office,2017-10-27 07:35:28,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,24,1,N
+24030022,24001041,Main Office,2017-10-27 07:35:28,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,24,1,N
+24029728,24001103,Main Office,2017-10-27 07:35:28,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,24,1,N
+412029598,412001000,Main Office,2017-10-27 07:39:20,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,412,1,N
+412030022,412001041,Main Office,2017-10-27 07:39:20,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,412,1,N
+412029728,412001103,Main Office,2017-10-27 07:39:20,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,412,1,N
+419029598,419001000,Main Office,2017-10-27 07:40:36,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,419,1,N
+419030022,419001041,Main Office,2017-10-27 07:40:36,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,419,1,N
+419029728,419001103,Main Office,2017-10-27 07:40:36,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,419,1,N
+458029598,458001000,Main Office,2017-10-27 07:40:52,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,458,1,N
+458030022,458001041,Main Office,2017-10-27 07:40:52,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,458,1,N
+458029728,458001103,Main Office,2017-10-27 07:40:52,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,458,1,N
+999030022,999001041,Main Office,2017-11-09 13:40:45,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,999,1,N
+999029728,999001103,Main Office,2017-11-09 13:40:45,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,999,1,N
+999029598,999001000,Main Office,2017-11-09 13:40:45,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,999,1,N
+335030022,335001041,Main Office,2017-11-15 17:38:41,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,335,1,N
+335029728,335001103,Main Office,2017-11-15 17:38:41,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,335,1,N
+335029598,335001000,Main Office,2017-11-15 17:38:41,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,335,1,N
+349030022,349001041,Main Office,2017-11-15 17:50:41,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,349,1,N
+349029728,349001103,Main Office,2017-11-15 17:50:41,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,349,1,N
+349029598,349001000,Main Office,2017-11-15 17:50:41,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,349,1,N
+315030022,315001041,Main Office,2017-11-15 17:53:05,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,315,1,N
+315029728,315001103,Main Office,2017-11-15 17:53:05,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,315,1,N
+315029598,315001000,Main Office,2017-11-15 17:53:05,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,315,1,N
+306030022,306001041,Main Office,2017-11-15 17:56:55,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,306,1,N
+306029728,306001103,Main Office,2017-11-15 17:56:55,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,306,1,N
+306029598,306001000,Main Office,2017-11-15 17:56:55,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,306,1,N
+321030022,321001041,Main Office,2017-11-15 17:57:45,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,321,1,N
+321029728,321001103,Main Office,2017-11-15 17:57:45,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,321,1,N
+321029598,321001000,Main Office,2017-11-15 17:57:45,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,321,1,N
+320030022,320001041,Main Office,2017-11-15 17:58:32,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,320,1,N
+320029728,320001103,Main Office,2017-11-15 17:58:32,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,320,1,N
+320029598,320001000,Main Office,2017-11-15 17:58:32,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,320,1,N
+305030022,305001041,Main Office,2017-11-15 17:58:35,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,305,1,N
+305029728,305001103,Main Office,2017-11-15 17:58:35,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,305,1,N
+305029598,305001000,Main Office,2017-11-15 17:58:35,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,305,1,N
+348030022,348001041,Main Office,2017-11-15 18:00:31,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,348,1,N
+348029781,348001035,Main Office,2017-11-15 18:00:31,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,348,1,N
+348029728,348001103,Main Office,2017-11-15 18:00:31,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,348,1,N
+348029598,348001000,Main Office,2017-11-15 18:00:31,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,348,1,N
+331030022,331001041,Main Office,2017-11-15 18:00:40,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,331,1,N
+331029781,331001035,Main Office,2017-11-15 18:00:40,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,331,1,N
+331029728,331001103,Main Office,2017-11-15 18:00:40,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,331,1,N
+331029598,331001000,Main Office,2017-11-15 18:00:40,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,331,1,N
+350030022,350001041,Main Office,2017-11-15 18:01:04,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,350,1,N
+350029781,350001035,Main Office,2017-11-15 18:01:04,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,350,1,N
+350029728,350001103,Main Office,2017-11-15 18:01:04,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,350,1,N
+350029598,350001000,Main Office,2017-11-15 18:01:04,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,350,1,N
+314030022,314001041,Main Office,2017-11-15 18:02:54,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,314,1,N
+314029781,314001035,Main Office,2017-11-15 18:02:54,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,314,1,N
+314029728,314001103,Main Office,2017-11-15 18:02:54,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,314,1,N
+314029598,314001000,Main Office,2017-11-15 18:02:54,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,314,1,N
+337030022,337001041,Main Office,2017-11-15 18:03:46,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,337,1,N
+337029781,337001035,Main Office,2017-11-15 18:03:46,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,337,1,N
+337029728,337001103,Main Office,2017-11-15 18:03:46,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,337,1,N
+337029598,337001000,Main Office,2017-11-15 18:03:46,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,337,1,N
+307030022,307001041,Main Office,2017-11-15 18:03:52,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,307,1,N
+307029781,307001035,Main Office,2017-11-15 18:03:52,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,307,1,N
+307029728,307001103,Main Office,2017-11-15 18:03:52,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,307,1,N
+307029598,307001000,Main Office,2017-11-15 18:03:52,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,307,1,N
+325030022,325001041,Main Office,2017-11-15 18:04:42,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,325,1,N
+325029781,325001035,Main Office,2017-11-15 18:04:42,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,325,1,N
+325029728,325001103,Main Office,2017-11-15 18:04:42,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,325,1,N
+325029598,325001000,Main Office,2017-11-15 18:04:42,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,325,1,N
+42030022,42001041,Main Office,2017-11-15 18:06:35,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,42,1,N
+42029781,42001035,Main Office,2017-11-15 18:06:35,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,42,1,N
+42029728,42001103,Main Office,2017-11-15 18:06:35,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,42,1,N
+42029598,42001000,Main Office,2017-11-15 18:06:35,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,42,1,N
+339030022,339001041,Main Office,2017-11-15 18:07:22,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,339,1,N
+339029781,339001035,Main Office,2017-11-15 18:07:22,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,339,1,N
+339029728,339001103,Main Office,2017-11-15 18:07:22,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,339,1,N
+339029598,339001000,Main Office,2017-11-15 18:07:22,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,339,1,N
+333030022,333001041,Main Office,2017-11-15 18:08:23,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,333,1,N
+333029781,333001035,Main Office,2017-11-15 18:08:23,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,333,1,N
+333029728,333001103,Main Office,2017-11-15 18:08:23,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,333,1,N
+333029598,333001000,Main Office,2017-11-15 18:08:23,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,333,1,N
+318030022,318001041,Main Office,2017-11-15 18:09:08,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,318,1,N
+318029781,318001035,Main Office,2017-11-15 18:09:08,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,318,1,N
+318029728,318001103,Main Office,2017-11-15 18:09:08,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,318,1,N
+318029598,318001000,Main Office,2017-11-15 18:09:08,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,318,1,N
+346030022,346001041,Main Office,2017-11-15 18:09:12,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,346,1,N
+346029781,346001035,Main Office,2017-11-15 18:09:12,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,346,1,N
+346029728,346001103,Main Office,2017-11-15 18:09:12,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,346,1,N
+346029598,346001000,Main Office,2017-11-15 18:09:12,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,346,1,N
+330030022,330001041,Main Office,2017-11-15 18:09:48,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,330,1,N
+330029781,330001035,Main Office,2017-11-15 18:09:48,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,330,1,N
+330029728,330001103,Main Office,2017-11-15 18:09:48,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,330,1,N
+330029598,330001000,Main Office,2017-11-15 18:09:48,0,Mr.,Michael,,Brundage,Mechanical Products Ltd.,adventure-worksshu0,22555 Paseo De Las Americas,,San Diego,California,United States,330,1,N
+329030022,329001041,Main Office,2017-11-15 18:11:18,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,329,1,N
+329029781,329001035,Main Office,2017-11-15 18:11:18,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,329,1,N
+329029728,329001103,Main Office,2017-11-15 18:11:18,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,329,1,N
+338030022,338001041,Main Office,2017-11-15 18:11:34,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,338,1,N
+338029781,338001035,Main Office,2017-11-15 18:11:34,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,338,1,N
+338029728,338001103,Main Office,2017-11-15 18:11:34,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,338,1,N
+308030022,308001041,Main Office,2017-11-15 18:12:13,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,308,1,N
+308029781,308001035,Main Office,2017-11-15 18:12:13,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,308,1,N
+308029728,308001103,Main Office,2017-11-15 18:12:13,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,308,1,N
+340030022,340001041,Main Office,2017-11-15 18:13:12,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,340,1,N
+340029781,340001035,Main Office,2017-11-15 18:13:12,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,340,1,N
+340029728,340001103,Main Office,2017-11-15 18:13:12,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,340,1,N
+303030022,303001041,Main Office,2017-11-15 18:13:56,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,303,1,N
+303029781,303001035,Main Office,2017-11-15 18:13:56,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,303,1,N
+303029728,303001103,Main Office,2017-11-15 18:13:56,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,303,1,N
+334030022,334001041,Main Office,2017-11-15 18:16:19,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,334,1,N
+334029781,334001035,Main Office,2017-11-15 18:16:19,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,334,1,N
+334029728,334001103,Main Office,2017-11-15 18:16:19,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,334,1,N
+317030022,317001041,Main Office,2017-11-15 18:16:20,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,317,1,N
+317029781,317001035,Main Office,2017-11-15 18:16:20,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,317,1,N
+317029728,317001103,Main Office,2017-11-15 18:16:20,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,317,1,N
+880030022,880001041,Main Office,2017-11-15 18:17:06,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,880,1,N
+880029781,880001035,Main Office,2017-11-15 18:17:06,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,880,1,N
+880029728,880001103,Main Office,2017-11-15 18:17:06,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,880,1,N
+323030022,323001041,Main Office,2017-11-15 18:17:41,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,323,1,N
+323029781,323001035,Main Office,2017-11-15 18:17:41,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,323,1,N
+323029728,323001103,Main Office,2017-11-15 18:17:41,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,323,1,N
+302030022,302001041,Main Office,2017-11-15 18:18:43,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,302,1,N
+302029781,302001035,Main Office,2017-11-15 18:18:43,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,302,1,N
+302029728,302001103,Main Office,2017-11-15 18:18:43,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,302,1,N
+26030022,26001041,Main Office,2017-11-15 18:22:56,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,26,1,N
+26029781,26001035,Main Office,2017-11-15 18:22:56,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,26,1,N
+26029728,26001103,Main Office,2017-11-15 18:22:56,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,26,1,N
+336030022,336001041,Main Office,2017-11-15 18:24:15,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,336,1,N
+336029781,336001035,Main Office,2017-11-15 18:24:15,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,336,1,N
+336029728,336001103,Main Office,2017-11-15 18:24:15,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,336,1,N
+13030022,13001041,Main Office,2017-11-15 18:25:04,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,13,1,N
+13029781,13001035,Main Office,2017-11-15 18:25:04,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,13,1,N
+13029728,13001103,Main Office,2017-11-15 18:25:04,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,13,1,N
+319030022,319001041,Main Office,2017-11-15 18:25:05,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,319,1,N
+319029781,319001035,Main Office,2017-11-15 18:25:05,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,319,1,N
+319029728,319001103,Main Office,2017-11-15 18:25:05,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,319,1,N
+327030022,327001041,Main Office,2017-11-15 18:28:00,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,327,1,N
+327029781,327001035,Main Office,2017-11-15 18:28:00,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,327,1,N
+327029728,327001103,Main Office,2017-11-15 18:28:00,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,327,1,N
+324030022,324001041,Main Office,2017-11-15 18:32:54,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,324,1,N
+324029781,324001035,Main Office,2017-11-15 18:32:54,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,324,1,N
+324029728,324001103,Main Office,2017-11-15 18:32:54,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,324,1,N
+309030022,309001041,Main Office,2017-11-15 18:36:06,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,309,1,N
+309029781,309001035,Main Office,2017-11-15 18:36:06,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,309,1,N
+309029728,309001103,Main Office,2017-11-15 18:36:06,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,309,1,N
+345030022,345001041,Main Office,2017-11-15 18:37:27,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,345,1,N
+345029781,345001035,Main Office,2017-11-15 18:37:27,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,345,1,N
+345029728,345001103,Main Office,2017-11-15 18:37:27,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,345,1,N
+310030022,310001041,Main Office,2017-11-15 18:37:43,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,310,1,N
+310029781,310001035,Main Office,2017-11-15 18:37:43,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,310,1,N
+310029728,310001103,Main Office,2017-11-15 18:37:43,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,310,1,N
+304030022,304001041,Main Office,2017-11-15 18:38:45,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,304,1,N
+304029781,304001035,Main Office,2017-11-15 18:38:45,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,304,1,N
+304029728,304001103,Main Office,2017-11-15 18:38:45,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,304,1,N
+1030022,1001041,Main Office,2017-11-15 18:38:47,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,1,1,N
+1029781,1001035,Main Office,2017-11-15 18:38:47,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,1,1,N
+1029728,1001103,Main Office,2017-11-15 18:38:47,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,1,1,N
+328030022,328001041,Main Office,2017-11-15 18:42:02,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,328,1,N
+328029781,328001035,Main Office,2017-11-15 18:42:02,0,Mr.,Guy,,Gilbert,The Bicycle Accessories Company,adventure-worksshu0,Vista Marketplace,,Alhambra,California,United States,328,1,N
+328029728,328001103,Main Office,2017-11-15 18:42:02,0,Mr.,Maciej,,Dusza,Roadway Supplies,adventure-worksshu0,2564 S. Redwood Rd.,,Riverton,Utah,United States,328,1,N
+312030022,312001041,Main Office,2017-11-15 18:44:47,0,Mr.,Dylan,,Miller,Metropolitan Manufacturing,adventure-worksshu0,Parkway Plaza,,El Cajon,California,United States,312,1,N

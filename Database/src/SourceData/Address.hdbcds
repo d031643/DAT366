@@ -1,0 +1,12 @@
+namespace "SourceData";
+
+entity Address {
+    key AddressID     : Integer;
+        AddressLine1  : String(100);
+        AddressLine2  : String(100);
+        City          : String(100);
+        StateProvince : String(100);
+        CountryRegion : String(100);
+        PostalCode    : String(100);
+        ModifiedDate  : UTCDateTime;
+};

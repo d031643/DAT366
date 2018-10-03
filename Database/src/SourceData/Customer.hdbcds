@@ -1,0 +1,18 @@
+namespace "SourceData";
+
+entity Customer {
+    key CustomerID   : Integer;
+        NameStyle    : Integer;
+        Title        : String(100);
+        FirstName    : String(100);
+        MiddleName   : String(100);
+        LastName     : String(100);
+        Suffix       : String(100);
+        CompanyName  : String(100);
+        SalesPerson  : String(100);
+        EmailAddress : String(100);
+        Phone        : String(100);
+        PasswordHash : String(100);
+        PasswordSalt : String(100);
+        ModifiedDate : UTCDateTime;
+};

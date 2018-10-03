@@ -1,0 +1,24 @@
+namespace "DataMart";
+
+entity Customer_Dim_Source {
+
+    key RecordMode          : String(1)           not null;
+    key CustomerID          : Integer             not null;
+    key AddressID           : String(100)         not null;
+        AddressType         : String(100)         not null;
+        ModifiedDate        : UTCDateTime         not null default '2018-10-01';
+        NameStyle           : Integer             not null;
+        Title               : String(100)         not null;
+        FirstName           : String(100)         not null;
+        MiddleName          : String(100)         default ' ';
+        LastName            : String(100)         not null;
+        CompanyName         : String(100)         not null;
+        SalesPerson         : String(100)         not null;
+        AddressLine1        : String(100)         not null;
+        AddressLine2        : String(100)         default ' ';
+        City                : String(100)         not null;
+        StateProvince       : String(100)         not null;
+        CountryRegion       : String(100)         not null;
+        PostalCode          : String(100)         not null;
+        Counter             : Decimal(10, 2)      not null;        
+};

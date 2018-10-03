@@ -1,0 +1,226 @@
+namespace "DataMart";
+
+using DataWarehouse.DataStore::Structures.inboundQueueKey;
+using DataWarehouse.DataStore::Structures.inboundQueueAttributes;
+using DataWarehouse.DataStore::Structures.changeLogKey;
+using DataWarehouse.DataStore::Structures.changeLogAttributes;
+using DataWarehouse.DataStore::Structures.operationHistoryKey;
+using DataWarehouse.DataStore::Structures.operationHistoryAttributes;
+using DataWarehouse.DataStore::Structures.aggregationHistoryKey;
+using DataWarehouse.DataStore::Structures.aggregationHistoryAttributes;
+using DataWarehouse.DataStore::Structures.affectedRequestsKey;
+using DataWarehouse.DataStore::Structures.logMessagesKey;
+using DataWarehouse.DataStore::Structures.logMessagesAttributes;
+using DataWarehouse.DataStore::Structures.subscribersKey;
+using DataWarehouse.DataStore::Structures.subscribersAttributes;
+using DataWarehouse.DataStore::Structures.runningOperationsKey;
+using DataWarehouse.DataStore::Structures.idGeneratorKey;
+using DataWarehouse.DataStore::Structures.idGeneratorAttributes;
+using DataWarehouse.DataStore::Annotations as DataStore;
+
+context Customer_Dim_NDSO {
+    @DataStore.isDSO
+    @DataStore.entity.activeData         : 'active_data'
+    @DataStore.entity.changeLog          : 'change_log'
+    @DataStore.entity.activationQueue    : [ 'inbound_queue' ]
+    @DataStore.entity.operationHistory   : 'operationHistory'
+    @DataStore.entity.aggregationHistory : 'aggregationHistory'
+    @DataStore.entity.logMessages        : 'logMessages'
+    @DataStore.entity.affectedRequests   : 'affectedRequests'
+    @DataStore.entity.subscribers        : 'subscribers'
+    @DataStore.entity.runningOperations  : 'runningOperations'
+    @DataStore.entity.idGenerator        : 'idGen'
+    @DataStore.computeChecksum           : false
+    @DataStore.snapshotSupport           : false
+    /*@@layout{"layoutInfo":{"x":-67,"y":-82}}*/
+    context Customer_Dim_NDSO {
+        @DataStore.entityCategory : #ACTIVE_DATA
+        entity active_data {
+            key CustomerID    : String(10)     not null;
+            key AddressID     : Integer        not null;
+                AddressType   : String(100)    not null;
+                ModifiedDate  : UTCDateTime    not null default '2018-10-01';
+
+                @DataStore.aggregation : #NOP
+                NameStyle     : Integer        not null;
+
+                @DataStore.aggregation : #NOP
+                Title         : String(100)    not null;
+
+                @DataStore.aggregation : #NOP
+                FirstName     : String(100)    not null;
+
+                @DataStore.aggregation : #NOP
+                MiddleName    : String(100)    not null;
+
+                @DataStore.aggregation : #NOP
+                LastName      : String(100)    not null;
+
+                @DataStore.aggregation : #NOP
+                CompanyName   : String(100)    not null;
+
+                @DataStore.aggregation : #NOP
+                SalesPerson   : String(100)    not null;
+
+                @DataStore.aggregation : #NOP
+                AddressLine1  : String(100)    not null;
+
+                @DataStore.aggregation : #NOP
+                AddressLine2  : String(100)    not null;
+
+                @DataStore.aggregation : #NOP
+                City          : String(100)    not null;
+
+                @DataStore.aggregation : #NOP
+                StateProvince : String(100)    not null;
+
+                @DataStore.aggregation : #NOP
+                CountryRegion : String(100)    not null;
+
+                @DataStore.aggregation : #NOP
+                PostalCode    : String(100)    not null;
+
+                @DataStore.aggregation : #SUM
+                Counter       : Decimal(10, 2) not null;
+        }
+        technical configuration {
+            group name Customer_Dim_NDSO group type "sap.dwf.dso" group subtype ACTIVE;
+
+            partition by hash (CustomerID) partitions GET_NUM_SERVERS();
+        };
+
+        @DataStore.entityCategory : #ACTIVATION_QUEUE
+        entity inbound_queue {
+            key technicalKey        : inboundQueueKey;
+                technicalAttributes : inboundQueueAttributes not null;
+
+                @DataStore.aggregation : #MOV
+            key CustomerID          : String(10)             not null;
+
+                @DataStore.aggregation : #MOV
+                AddressID           : Integer                not null;
+
+                @DataStore.aggregation : #MOV
+                AddressType         : String(100)            not null;
+
+                @DataStore.aggregation : #MOV
+                ModifiedDate        : UTCDateTime            not null default '2018-10-01';
+
+                @DataStore.aggregation : #MOV
+                NameStyle           : Integer                not null;
+
+                @DataStore.aggregation : #MOV
+                Title               : String(100)            not null;
+
+                @DataStore.aggregation : #MOV
+                FirstName           : String(100)            not null;
+
+                @DataStore.aggregation : #MOV
+                MiddleName          : String(100)            not null;
+
+                @DataStore.aggregation : #MOV
+                LastName            : String(100)            not null;
+
+                @DataStore.aggregation : #MOV
+                CompanyName         : String(100)            not null;
+
+                @DataStore.aggregation : #MOV
+                SalesPerson         : String(100)            not null;
+
+                @DataStore.aggregation : #MOV
+                AddressLine1        : String(100)            not null;
+
+                @DataStore.aggregation : #MOV
+                AddressLine2        : String(100)            not null;
+
+                @DataStore.aggregation : #MOV
+                City                : String(100)            not null;
+
+                @DataStore.aggregation : #MOV
+                StateProvince       : String(100)            not null;
+
+                @DataStore.aggregation : #MOV
+                CountryRegion       : String(100)            not null;
+
+                @DataStore.aggregation : #MOV
+                PostalCode          : String(100)            not null;
+
+                @DataStore.aggregation : #SUM
+                Counter             : Decimal(10, 2)         not null;
+        }
+        technical configuration {
+            group name Customer_Dim_NDSO group type "sap.dwf.dso" group subtype QUEUE;
+
+            partition by hash (CustomerID) partitions GET_NUM_SERVERS();
+        };
+
+        @DataStore.entityCategory : #CHANGE_LOG
+        entity change_log {
+            key technicalKey        : changeLogKey;
+                technicalAttributes : changeLogAttributes not null;
+            key CustomerID          : String(10)          not null;
+                AddressID           : Integer             not null;
+                AddressType         : String(100)         not null;
+                ModifiedDate        : UTCDateTime         not null default '2018-10-01';
+                NameStyle           : Integer             not null;
+                Title               : String(100)         not null;
+                FirstName           : String(100)         not null;
+                MiddleName          : String(100)         not null;
+                LastName            : String(100)         not null;
+                CompanyName         : String(100)         not null;
+                SalesPerson         : String(100)         not null;
+                AddressLine1        : String(100)         not null;
+                AddressLine2        : String(100)         not null;
+                City                : String(100)         not null;
+                StateProvince       : String(100)         not null;
+                CountryRegion       : String(100)         not null;
+                PostalCode          : String(100)         not null;
+                Counter             : Decimal(10, 2)      not null;
+        }
+        technical configuration {
+            group name Customer_Dim_NDSO group type "sap.dwf.dso" group subtype CHANGE_LOG;
+
+            partition by hash (CustomerID) partitions GET_NUM_SERVERS();
+        };
+
+        @DataStore.entityCategory : #OPERATION_HISTORY
+        entity operationHistory {
+            key technicalKey        : operationHistoryKey;
+                technicalAttributes : operationHistoryAttributes;
+        };
+
+        @DataStore.entityCategory : #AGGREGATION_HISTORY
+        entity aggregationHistory {
+            key technicalKey        : aggregationHistoryKey;
+                technicalAttributes : aggregationHistoryAttributes;
+        };
+
+        @DataStore.entityCategory : #AFFECTED_REQUESTS
+        entity affectedRequests {
+            key technicalKey : affectedRequestsKey;
+        };
+
+        @DataStore.entityCategory : #LOG_MESSAGES
+        entity logMessages {
+            key technicalKey        : logMessagesKey;
+                technicalAttributes : logMessagesAttributes;
+        };
+
+        @DataStore.entityCategory : #SUBSCRIBERS
+        entity subscribers {
+            key technicalKey        : subscribersKey;
+                technicalAttributes : subscribersAttributes;
+        };
+
+        @DataStore.entityCategory : #RUNNING_OPERATIONS
+        entity runningOperations {
+            key technicalKey : runningOperationsKey;
+        };
+
+        @DataStore.entityCategory : #ID_GENERATOR
+        entity idGen {
+            key technicalKey        : idGeneratorKey;
+                technicalAttributes : idGeneratorAttributes;
+        };
+    };
+};

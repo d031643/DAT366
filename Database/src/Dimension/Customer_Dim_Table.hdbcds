@@ -1,0 +1,23 @@
+namespace "Dimension";
+
+entity Customer_Dim_Table {
+
+    key AddressID           : String(100)         default '';
+    key CustomerID          : Integer             not null;
+        AddressType         : String(100)         default '';
+        ModifiedDate        : UTCDateTime         not null default '2018-10-01';
+        NameStyle           : Integer             not null;
+        Title               : String(100)         default '';
+        FirstName           : String(100)         default '';
+        MiddleName          : String(100)         default '';
+        LastName            : String(100)         default '';
+        CompanyName         : String(100)         default '';
+        SalesPerson         : String(100)         default '';
+        AddressLine1        : String(100)         default '';
+        AddressLine2        : String(100)         default '';
+        City                : String(100)         default '';
+        StateProvince       : String(100)         default '';
+        CountryRegion       : String(100)         default '';
+        PostalCode          : String(100)         default '';
+        Counter             : Decimal(10, 0)      not null;        
+};

@@ -1,0 +1,40 @@
+{
+  "format_version" : 1,
+  "imports" : [
+    {
+      "target_table" : "DataMart::Customer_Dim_Source",
+      "source_data" : {
+        "data_type" : "CSV",
+        "file_name" : "DataMart::Customer_Dim_Source.csv",
+        "has_header" : true,
+        "type_config" : {
+          "delimiter" : ",",
+          "do_quote"  : true
+        }
+      },
+      "import_settings" : {
+        "import_columns" : [
+        "RecordMode",
+        "CustomerID",
+        "AddressID",
+        "AddressType",
+        "ModifiedDate",
+        "NameStyle",
+        "Title",
+        "FirstName",
+        "MiddleName",
+        "LastName",
+        "CompanyName",
+        "SalesPerson",
+        "AddressLine1",
+        "AddressLine2",
+        "City",
+        "StateProvince",
+        "CountryRegion",
+        "PostalCode",
+        "Counter"
+        ]
+      }
+    }
+  ]
+}

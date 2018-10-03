@@ -1,0 +1,9 @@
+namespace "SourceData";
+
+entity CustomerAddress {
+    key CustomerID   : Integer;
+    key AddressID    : String(100);
+        AddressType  : String(100);
+        ModifiedDate : UTCDateTime;
+        Counter      : Decimal (10,0);
+};

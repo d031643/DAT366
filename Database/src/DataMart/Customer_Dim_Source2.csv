@@ -1,0 +1,5 @@
+CustomerID,AddressID,AddressType,ModifiedDate,NameStyle,Title,FirstName,MiddleName,LastName,CompanyName,SalesPerson,AddressLine1,AddressLine2,City,StateProvince,CountryRegion,PostalCode,Counter,RecordMode
+29842,1094,Main Office,2005-09-01 00:00:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,85257,1,A
+29690,1036,Main Office,2005-09-01 00:00:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,84098,1,A
+129842,101094,Main Office,2005-09-01 00:00:00,0,Mr.,Mike,,Hines,First Cycle Store,adventure-worksshu0,25250 N 90th St,,Scottsdale,Arizona,United States,85257,1,A
+129690,101036,Main Office,2005-09-01 00:00:00,0,Mr.,Conor,,Cunningham,Fashionable Bikes and Accessories,adventure-worksshu0,Sports Store At Park City,,Park City,Utah,United States,84098,1,A
